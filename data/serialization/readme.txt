@@ -1,0 +1,1 @@
+This folder is used by Unicorn to store the serialized Sitecore items.

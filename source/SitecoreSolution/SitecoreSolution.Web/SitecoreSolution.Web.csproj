@@ -48,8 +48,38 @@
     <Reference Include="Ninject">
       <HintPath>..\packages\Ninject.3.0.1.10\lib\net45-full\Ninject.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.Kernel">
-      <HintPath>..\packages\Sitecore.Kernel.8.0.5075.0\lib\Sitecore.Kernel.dll</HintPath>
+    <Reference Include="Sitecore.Kernel, Version=7.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Kernel.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Rocks.Server">
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Rocks.Server.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Rocks.Server.Core">
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Rocks.Server.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Rocks.Server.Lucene.2313">
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Rocks.Server.Lucene.2313.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Rocks.Server.Lucene.2941">
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Rocks.Server.Lucene.2941.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Rocks.Server.Lucene.3030">
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Rocks.Server.Lucene.3030.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Rocks.Server.Speak">
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Rocks.Server.Speak.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Sitecore.Rocks.Server.Validation">
+      <HintPath>..\packages\Sitecore.Rocks.Server.1.5.0.0\lib\net45\Sitecore.Rocks.Server.Validation.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -151,8 +181,8 @@
     <Content Include="App_Config\Sites.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="App_Config\Include\DataFolder.config" />
     <Content Include="App_Config\Include\Serialization.config" />
+    <Content Include="App_Config\Include\SerializationFolder.config" />
     <None Include="Properties\PublishProfiles\Local Sitecore.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
