@@ -1,0 +1,255 @@
+----item----
+version: 1
+id: {7B578B65-BD2F-4C7C-9A24-DAE3E98B4F23}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Conditional Renderings/Set Rendering
+parent: {F4F40881-72E4-409E-9A4B-97B129BE3B52}
+name: Set Rendering
+master: {00000000-0000-0000-0000-000000000000}
+template: {F90052A5-B4E6-4E6D-9812-1E1B88A6FCEA}
+templatekey: Action
+
+----field----
+field: {FF55D5A7-6D4B-4CD1-83E0-BAC268073F66}
+name: Type
+key: type
+content-length: 71
+
+Sitecore.Rules.ConditionalRenderings.SetRenderingAction,Sitecore.Kernel
+----version----
+language: da
+version: 1
+revision: 458c4431-8da6-4489-9912-c120097791c2
+
+----field----
+field: {EEB36A3B-40D9-4AF5-862A-DE257B84DCA3}
+name: Text
+key: text
+content-length: 339
+
+angiv rendering til [RenderingItem,Tree,root=/sitecore/Layout&selection=System/Layout/Renderings/Xsl Rendering|System/Layout/Renderings/XmlControl|System/Layout/Renderings/WebControl|System/Layout/Renderings/Url Rendering|System/Layout/Renderings/Sublayout|System/Layout/Renderings/Rendering|System/Layout/Renderings/Method Rendering,Item]
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+Angiv rendering
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132644:635602948043006574Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+458c4431-8da6-4489-9912-c120097791c2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132959:635602949993457142Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 01405d8b-fb4f-48c6-86e4-af6dd3dfb87d
+
+----field----
+field: {EEB36A3B-40D9-4AF5-862A-DE257B84DCA3}
+name: Text
+key: text
+content-length: 340
+
+Rendering auf [RenderingItem,Tree,root=/sitecore/Layout&selection=System/Layout/Renderings/Xsl Rendering|System/Layout/Renderings/XmlControl|System/Layout/Renderings/WebControl|System/Layout/Renderings/Url Rendering|System/Layout/Renderings/Sublayout|System/Layout/Renderings/Rendering|System/Layout/Renderings/Method Rendering,Item] setzen
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 20
+
+Rendering einstellen
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132803:635602948837223500Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+01405d8b-fb4f-48c6-86e4-af6dd3dfb87d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133040:635602950402667721Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: f4b9e4e6-5842-4e1e-8a38-c772788d5414
+
+----field----
+field: {EEB36A3B-40D9-4AF5-862A-DE257B84DCA3}
+name: Text
+key: text
+content-length: 336
+
+set rendering to [RenderingItem,Tree,root=/sitecore/Layout&selection=System/Layout/Renderings/Xsl Rendering|System/Layout/Renderings/XmlControl|System/Layout/Renderings/WebControl|System/Layout/Renderings/Url Rendering|System/Layout/Renderings/Sublayout|System/Layout/Renderings/Rendering|System/Layout/Renderings/Method Rendering,Item]
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20101210T105453
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f4b9e4e6-5842-4e1e-8a38-c772788d5414
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130906T151847:635140775272629166
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 35c1436c-df1d-450f-b333-bff4519b1ed2
+
+----field----
+field: {EEB36A3B-40D9-4AF5-862A-DE257B84DCA3}
+name: Text
+key: text
+content-length: 336
+
+レンダリングを [RenderingItem,Tree,root=/sitecore/Layout&selection=System/Layout/Renderings/Xsl Rendering|System/Layout/Renderings/XmlControl|System/Layout/Renderings/WebControl|System/Layout/Renderings/Url Rendering|System/Layout/Renderings/Sublayout|System/Layout/Renderings/Rendering|System/Layout/Renderings/Method Rendering,特定のアイテム] に設定する
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 9
+
+レンダリングを設定
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132526:635602947260214603Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+35c1436c-df1d-450f-b333-bff4519b1ed2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133122:635602950827976759Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

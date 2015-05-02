@@ -1,0 +1,276 @@
+----item----
+version: 1
+id: {19A763F5-5540-4096-9CF6-43E79B678907}
+database: core
+path: /sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Serialize Items
+parent: {BCCBFECC-9953-4C4D-8BFF-B31E288CBDAE}
+name: Serialize Items
+master: {00000000-0000-0000-0000-000000000000}
+template: {9F63F3ED-BFB8-49A3-B370-1830E0A5920F}
+templatekey: Dropdown List
+
+----field----
+field: {CCD35091-1A66-4CE5-A1D3-77A2CCD29142}
+name: Type
+key: type
+content-length: 21
+
+bucket:serializeitems
+----field----
+field: {5E34A660-3099-4E49-87DF-80EB1DECF2A6}
+name: Enabled
+key: enabled
+content-length: 1
+
+1
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 43
+
+Network/32x32/server_to_client_critical.png
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 97
+
+ar|sitecore\Author|pe|-item:read|pd|-item:read|ar|sitecore\Developer|pe|+item:read|pd|+item:read|
+----version----
+language: da
+version: 1
+revision: 51ec6b0b-fa37-4757-8771-2676fef34161
+
+----field----
+field: {D9BDF564-FF37-4564-B943-00D4D89C19F1}
+name: List Name
+key: list name
+content-length: 20
+
+Serialiser elementer
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 20
+
+Serialiser elementer
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132555:635602947550364978Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+51ec6b0b-fa37-4757-8771-2676fef34161
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132931:635602949713144644Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: ee808fcd-0b5c-410e-b0aa-7ce6d3078360
+
+----field----
+field: {D9BDF564-FF37-4564-B943-00D4D89C19F1}
+name: List Name
+key: list name
+content-length: 19
+
+Items serialisieren
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 19
+
+Items serialisieren
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132707:635602948272218622Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ee808fcd-0b5c-410e-b0aa-7ce6d3078360
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133012:635602950122519404Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 2f154486-7a84-4df7-88cd-78a112843adb
+
+----field----
+field: {D9BDF564-FF37-4564-B943-00D4D89C19F1}
+name: List Name
+key: list name
+content-length: 15
+
+Serialize Items
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120207T104300
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2f154486-7a84-4df7-88cd-78a112843adb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130116T131238:634939387589515034
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 34ba67dd-dd3b-4e06-a9cb-c84b3b87569c
+
+----field----
+field: {D9BDF564-FF37-4564-B943-00D4D89C19F1}
+name: List Name
+key: list name
+content-length: 10
+
+アイテムのシリアル化
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+アイテムのシリアル化
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132429:635602946692557924Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+34ba67dd-dd3b-4e06-a9cb-c84b3b87569c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133053:635602950531416073Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

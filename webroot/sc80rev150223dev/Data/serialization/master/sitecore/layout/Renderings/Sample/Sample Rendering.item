@@ -1,0 +1,362 @@
+----item----
+version: 1
+id: {493B3A83-0FA7-4484-8FC9-4680991CF743}
+database: master
+path: /sitecore/layout/Renderings/Sample/Sample Rendering
+parent: {1936B96E-DA1F-4A3A-8AAF-8C46268E2D84}
+name: Sample Rendering
+master: {00000000-0000-0000-0000-000000000000}
+template: {F1F1D639-4F54-40C2-8BE0-81266B392CEB}
+templatekey: Xsl Rendering
+
+----field----
+field: {78783F79-1411-4B91-958D-AD81F81E2485}
+name: Path
+key: path
+content-length: 26
+
+/xsl/sample rendering.xslt
+----field----
+field: {8AA9BB12-1A7B-4BC0-851A-25B7A1FF3A88}
+name: Placeholder
+key: placeholder
+content-length: 7
+
+content
+----field----
+field: {E67044AD-FB48-489E-83A6-263A89A8C948}
+name: Data source
+key: data source
+content-length: 0
+
+
+----field----
+field: {CCA35CD7-DC3D-4A2F-8E7F-F6EC68D49E74}
+name: Parameters
+key: parameters
+content-length: 0
+
+
+----field----
+field: {3FD02019-D7B6-4003-BC75-A04262C3CF49}
+name: Login rendering
+key: login rendering
+content-length: 0
+
+
+----field----
+field: {CEDEFAC5-C7C3-4CF3-9AED-B5301F22DA64}
+name: Customize Page
+key: customize page
+content-length: 0
+
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 38
+
+Applications/32x32/text_align_left.png
+----field----
+field: {56776EDF-261C-4ABC-9FE7-70C618795239}
+name: __Help link
+key: __help link
+content-length: 0
+
+
+----version----
+language: da
+version: 1
+revision: 37297bbc-ea5a-4699-9e3a-dbe0dd64f6d6
+
+----field----
+field: {58266FB1-BED3-46F1-997D-117A3F5556EE}
+name: Description
+key: description
+content-length: 418
+
+<div>
+  <b>Eksempel på rendering</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<img height="32" width="32" alt="Sample Rendering" style="float:left;margin:0px 8px 0px 0px" src="/sitecore/shell/Themes/standard/Applications/32x32/text_align_left.png?w=32&amp;h=32&amp;as=1" />
+<div>
+Eksemplet på renderingen aftegner en titel og en tekst.
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 21
+
+Eksempel på rendering
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132641:635602948012069866Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+37297bbc-ea5a-4699-9e3a-dbe0dd64f6d6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132957:635602949978769360Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: f472865a-d11e-4d9d-ba20-61ae861e6112
+
+----field----
+field: {58266FB1-BED3-46F1-997D-117A3F5556EE}
+name: Description
+key: description
+content-length: 393
+
+<div>
+  <b>Beispiel-Rendering</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<img height="32" width="32" alt="Sample Rendering" style="float:left;margin:0px 8px 0px 0px" src="~/icon/Applications/32x32/text_align_left.png?w=32&amp;h=32&amp;as=1" />
+<div>
+Das Beispiel-Rendering bezieht einen Titel und einen Text.
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 18
+
+Beispiel-Rendering
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132759:635602948798160500Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f472865a-d11e-4d9d-ba20-61ae861e6112
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133038:635602950383136721Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: bdaa60d5-54ae-4e96-b7d6-f20acd488008
+
+----field----
+field: {58266FB1-BED3-46F1-997D-117A3F5556EE}
+name: Description
+key: description
+content-length: 385
+
+
+		<div>
+  <b>Sample Rendering</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<img height="32" width="32" alt="Sample Rendering" style="float:left;margin:0px 8px 0px 0px" src="~/icon/Applications/32x32/text_align_left.png?w=32&amp;h=32&amp;as=1" />
+<div>
+The sample rendering draws a title and a text.
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 34
+
+20080311T115653:633408334132248977
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bdaa60d5-54ae-4e96-b7d6-f20acd488008
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20100603T111609:634111605694777258
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 9c20e637-3d2e-46e5-9ec9-b6d915ab01ec
+
+----field----
+field: {58266FB1-BED3-46F1-997D-117A3F5556EE}
+name: Description
+key: description
+content-length: 364
+
+<div>
+  <b>サンプル レンダリング</b>
+<div>
+<div style="padding:8px 8px 0px 8px;width:200px">
+<img height="32" width="32" alt="サンプル レンダリング" style="float:left;margin:0px 8px 0px 0px" src="~/icon/Applications/32x32/text_align_left.png?w=32&amp;h=32&amp;as=1" />
+<div>
+サンプル レンダリングは [タイトル] と [テキスト] フィールドを描画します。
+<div>
+</div>
+</div>
+</div>
+</div>
+<div>
+</div>
+</div>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 11
+
+サンプル レンダリング
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132522:635602947225840263Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9c20e637-3d2e-46e5-9ec9-b6d915ab01ec
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133121:635602950812663965Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

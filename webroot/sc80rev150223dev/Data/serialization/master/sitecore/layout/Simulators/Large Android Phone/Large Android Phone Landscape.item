@@ -1,0 +1,255 @@
+----item----
+version: 1
+id: {1875D4AC-A81F-4558-B26A-D61D96F80C9C}
+database: master
+path: /sitecore/layout/Simulators/Large Android Phone/Large Android Phone Landscape
+parent: {C158AB86-AAEE-420A-A40E-3B25DC92F218}
+name: Large Android Phone Landscape
+master: {00000000-0000-0000-0000-000000000000}
+template: {5CACE390-E862-4ACC-BFD5-2F26C5883F45}
+templatekey: Simulator Rotated State
+
+----field----
+field: {89E13671-A39E-432B-BD99-CF27B7F0F90D}
+name: Background Image
+key: background image
+content-length: 182
+
+<image mediaid="{DF1D83F8-D813-4445-A94F-1DB2067DAF2A}" mediapath="/System/Simulator Backgrounds/Large Android phone_landscape" src="~/media/DF1D83F8D8134445A94F1DB2067DAF2A.ashx" />
+----field----
+field: {82E5E42D-B707-4BC2-87BB-319497BD6C93}
+name: Screen Width
+key: screen width
+content-length: 4
+
+1280
+----field----
+field: {E03FC568-58B8-44E7-A410-A25208602DB4}
+name: Screen Height
+key: screen height
+content-length: 3
+
+800
+----field----
+field: {A820E106-A624-4E1A-8F50-D672446CDF92}
+name: Screen Offset
+key: screen offset
+content-length: 6
+
+181,52
+----field----
+field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
+name: __Thumbnail
+key: __thumbnail
+content-length: 0
+
+
+----version----
+language: da
+version: 1
+revision: 573ec330-be6d-410d-b895-fbcfd75d1430
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 38
+
+Stor Android-telefon i liggende format
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132638:635602947981758143Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+573ec330-be6d-410d-b895-fbcfd75d1430
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132956:635602949963456566Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 17e0d665-3406-4d70-b6b6-c8637f549cb6
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 30
+
+Große Android Phone Querformat
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132756:635602948760035152Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+17e0d665-3406-4d70-b6b6-c8637f549cb6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133036:635602950364231055Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: fa627e93-7f79-49eb-aa4c-ecb71993602b
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120406T121100
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fa627e93-7f79-49eb-aa4c-ecb71993602b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120816T163713:634807318337213362
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 3ef65c02-8e5f-42ae-b36d-779f245ddfaf
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 23
+
+Android フォン - 高解像度 （横長）
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132519:635602947191309676Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3ef65c02-8e5f-42ae-b36d-779f245ddfaf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133119:635602950796569906Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

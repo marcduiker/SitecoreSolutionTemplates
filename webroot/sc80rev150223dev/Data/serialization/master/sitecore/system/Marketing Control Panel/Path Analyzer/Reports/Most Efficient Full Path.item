@@ -1,0 +1,222 @@
+----item----
+version: 1
+id: {1BE32547-F4C1-4BEA-BA80-4B935D5BE90F}
+database: master
+path: /sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Efficient Full Path
+parent: {CD987A31-A2EF-4309-B3FC-2060451694B3}
+name: Most Efficient Full Path
+master: {00000000-0000-0000-0000-000000000000}
+template: {3C7C63EE-F6B5-4C41-85D4-840EF9D875A8}
+templatekey: Report
+
+----field----
+field: {19A7925F-49D4-438B-8173-8ABCA9E13767}
+name: Category
+key: category
+content-length: 8
+
+TopPaths
+----field----
+field: {ED42832F-C994-4ED7-8ED3-5408A89C6C52}
+name: Type
+key: type
+content-length: 74
+
+Sitecore.PathAnalyzer.Reports.MostEfficientFullPaths,Sitecore.PathAnalyzer
+----version----
+language: de-DE
+version: 1
+revision: 823ab895-f7fd-4db4-a55f-a32a12f9e065
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 33
+
+Effizientester vollständiger Pfad
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 50
+
+Definiert den größten Wert der Knoteneffektivität.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 33
+
+Effizientester vollständiger Pfad
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132756:635602948763003921Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+823ab895-f7fd-4db4-a55f-a32a12f9e065
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133036:635602950365637260Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: aee031c4-abb8-48f4-80ca-df51cd382179
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 24
+
+Most Efficient Full Path
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 45
+
+Defines the largest value of node efficiency.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20140924T210848Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aee031c4-abb8-48f4-80ca-df51cd382179
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20140924T211039:635471898391797633Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 3d6c6dbc-ae61-4e1c-b96d-8f2e21f5ef09
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 14
+
+最も効果的な完全な Path
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 19
+
+ノード効果の最大バリューを定義します。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+最も効果的な完全な Path
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132519:635602947193653381Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3d6c6dbc-ae61-4e1c-b96d-8f2e21f5ef09
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133119:635602950797819930Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

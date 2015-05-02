@@ -1,0 +1,318 @@
+----item----
+version: 1
+id: {794505D3-7788-4347-A9E1-3B01B021AF14}
+database: core
+path: /sitecore/content/Applications/Layouts/IDE/New File/Code/JavaScript File
+parent: {A308A3CE-89ED-41C5-93D0-48183D60711B}
+name: JavaScript File
+master: {9178605B-142F-4D38-9BBC-1D816536B2C2}
+template: {D592084B-F776-4764-8843-604F779B6624}
+templatekey: Click
+
+----field----
+field: {AA38B514-FC05-4372-BE15-811D15FC8595}
+name: Icon
+key: icon
+content-length: 39
+
+software/16x16/text_code_javascript.png
+----field----
+field: {40F2647D-1876-4995-AEB1-DBC5CD946EE7}
+name: Click
+key: click
+content-length: 115
+
+layout:createfile(ext=js,name=JavaScript.js,filepath=/layouts,filetemplate=/sitecore/shell/templates/JavaScript.js)
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 39
+
+software/16x16/text_code_javascript.png
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: da
+version: 1
+revision: 954115a9-5d6f-4b00-b2e2-2dd392e0fdd4
+
+----field----
+field: {14BB9DE9-DCB8-47AE-BA9E-0A5E2B2DB301}
+name: Header
+key: header
+content-length: 14
+
+JavaScript-fil
+----field----
+field: {2E3F0081-5743-41F3-B618-F3BC8B899650}
+name: Tool Tip
+key: tool tip
+content-length: 42
+
+En scriptfil indeholdende JavaScript-kode.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+JavaScript-fil
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132609:635602947693954853Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+954115a9-5d6f-4b00-b2e2-2dd392e0fdd4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132939:635602949793612327Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 21f2869c-711e-4726-b668-bf0196bf229c
+
+----field----
+field: {14BB9DE9-DCB8-47AE-BA9E-0A5E2B2DB301}
+name: Header
+key: header
+content-length: 16
+
+JavaScript Datei
+----field----
+field: {2E3F0081-5743-41F3-B618-F3BC8B899650}
+name: Tool Tip
+key: tool tip
+content-length: 47
+
+Eine Script Datei, die JavaScript Code enthält.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+JavaScript Datei
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132723:635602948436125640Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+21f2869c-711e-4726-b668-bf0196bf229c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133020:635602950200798650Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: af653549-4d0e-4a9f-bd24-325a79fa327f
+
+----field----
+field: {14BB9DE9-DCB8-47AE-BA9E-0A5E2B2DB301}
+name: Header
+key: header
+content-length: 15
+
+JavaScript File
+----field----
+field: {2E3F0081-5743-41F3-B618-F3BC8B899650}
+name: Tool Tip
+key: tool tip
+content-length: 41
+
+A script file containing JavaScript code.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 15
+
+20051025T210913
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20051025T210913
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+af653549-4d0e-4a9f-bd24-325a79fa327f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20080325T141339:633420512192776599
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+
+----version----
+language: ja-JP
+version: 1
+revision: 2b16506d-d136-488a-bc8e-df199d18d55b
+
+----field----
+field: {14BB9DE9-DCB8-47AE-BA9E-0A5E2B2DB301}
+name: Header
+key: header
+content-length: 15
+
+JavaScript ファイル
+----field----
+field: {2E3F0081-5743-41F3-B618-F3BC8B899650}
+name: Tool Tip
+key: tool tip
+content-length: 29
+
+JavaScript コードの含まれるスクリプト ファイル
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+JavaScript ファイル
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132444:635602946842873888Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2b16506d-d136-488a-bc8e-df199d18d55b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133102:635602950621882643Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

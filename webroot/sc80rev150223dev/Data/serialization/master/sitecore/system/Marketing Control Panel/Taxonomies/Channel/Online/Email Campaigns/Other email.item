@@ -1,0 +1,208 @@
+----item----
+version: 1
+id: {BA1D62CB-4224-47D0-AF59-78A8972FD538}
+database: master
+path: /sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Other email
+parent: {9114B6C2-450B-42E2-ABE3-011F0B8AD520}
+name: Other email
+master: {00000000-0000-0000-0000-000000000000}
+template: {3B4FDE65-16A8-491D-BF15-99CE83CF3506}
+templatekey: Channel
+
+----field----
+field: {8FB875EB-3AD3-44FF-87E1-998370CC3199}
+name: Code
+key: code
+content-length: 2
+
+99
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: de-DE
+version: 1
+revision: 7fa71548-908e-4cbd-880b-abae7b672890
+
+----field----
+field: {8BDEE96A-E8F5-446A-A1D2-568C3018C98E}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{DB05236E-4099-4DD8-A9D0-0320FCB740F8}" />
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Andere Email
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132808:635602948885192864Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7fa71548-908e-4cbd-880b-abae7b672890
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133042:635602950425948673Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 26352e9a-3521-4fbc-9228-361cb77795be
+
+----field----
+field: {8BDEE96A-E8F5-446A-A1D2-568C3018C98E}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{DB05236E-4099-4DD8-A9D0-0320FCB740F8}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20141115T112736Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+26352e9a-3521-4fbc-9228-361cb77795be
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150123T105712:635576074328199654Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+
+----version----
+language: ja-JP
+version: 1
+revision: 720ef636-258f-4485-b286-0c2e4ec4f8e0
+
+----field----
+field: {8BDEE96A-E8F5-446A-A1D2-568C3018C98E}
+name: Image
+key: image
+content-length: 58
+
+<image mediaid="{DB05236E-4099-4DD8-A9D0-0320FCB740F8}" />
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 9
+
+その他の電子メール
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132530:635602947303338775Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+720ef636-258f-4485-b286-0c2e4ec4f8e0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133124:635602950847508384Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

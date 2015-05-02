@@ -1,0 +1,288 @@
+----item----
+version: 1
+id: {96E0B460-00F0-4F19-B82A-28E55A2354BC}
+database: master
+path: /sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test/Duration Reached
+parent: {B6CD7D67-7FB0-49D2-9212-3E91FDEC1C2D}
+name: Duration Reached
+master: {00000000-0000-0000-0000-000000000000}
+template: {349CDA24-CAB7-4991-BA2E-86116017995C}
+templatekey: Rule Container
+
+----version----
+language: da
+version: 1
+revision: 6f5e53f9-12c5-48fd-96fd-e90783a0d620
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 512
+
+<ruleset>
+  <rule uid="{E806FED7-ABA7-419D-B2D7-4B0B72A78874}">
+    <conditions>
+      <condition id="{0FFF246F-E743-475F-9E60-CB7FC38E7B3F}" uid="9CDC6A93D1784D74933828785CB8ABEA" />
+    </conditions>
+    <actions>
+      <action id="{F24DF43F-E4D4-4189-A5B0-86C79FBA951F}" uid="A42B99A63A654363BABD3C43AEB36AE9" EmailId="NoWinner" />
+      <action id="{D4819DA6-2FC6-41A9-A700-8A847F33A9A6}" uid="9047C74EC2014A819C872513E85E7616" ForcedWinnerBehavior="Original" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+Opnået varighed
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132646:635602948060818618Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f5e53f9-12c5-48fd-96fd-e90783a0d620
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133000:635602950001582298Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 64ab82b1-13a7-488f-8132-f9c7a83517ff
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 516
+
+<ruleset>
+  <rule uid="{E806FED7-ABA7-419D-B2D7-4B0B72A78874}">
+    <conditions>
+      <condition id="{0FFF246F-E743-475F-9E60-CB7FC38E7B3F}" uid="9CDC6A93D1784D74933828785CB8ABEA" />
+    </conditions>
+    <actions>
+      <action id="{F24DF43F-E4D4-4189-A5B0-86C79FBA951F}" uid="A42B99A63A654363BABD3C43AEB36AE9" EmailId="KeinGewinner" />
+      <action id="{D4819DA6-2FC6-41A9-A700-8A847F33A9A6}" uid="9047C74EC2014A819C872513E85E7616" ForcedWinnerBehavior="Original" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Dauer erreicht
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132805:635602948857692512Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+64ab82b1-13a7-488f-8132-f9c7a83517ff
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133041:635602950413448833Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 7b1123f8-ae5d-45a4-bb9c-e6298e74e839
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 512
+
+<ruleset>
+  <rule uid="{E806FED7-ABA7-419D-B2D7-4B0B72A78874}">
+    <conditions>
+      <condition id="{0FFF246F-E743-475F-9E60-CB7FC38E7B3F}" uid="9CDC6A93D1784D74933828785CB8ABEA" />
+    </conditions>
+    <actions>
+      <action id="{F24DF43F-E4D4-4189-A5B0-86C79FBA951F}" uid="A42B99A63A654363BABD3C43AEB36AE9" EmailId="NoWinner" />
+      <action id="{D4819DA6-2FC6-41A9-A700-8A847F33A9A6}" uid="9047C74EC2014A819C872513E85E7616" ForcedWinnerBehavior="Original" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140721T165359
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7b1123f8-ae5d-45a4-bb9c-e6298e74e839
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140722T142355:635416358351533992
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 14d80707-6eb4-4011-8af7-0052a97b979e
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 512
+
+<ruleset>
+  <rule uid="{E806FED7-ABA7-419D-B2D7-4B0B72A78874}">
+    <conditions>
+      <condition id="{0FFF246F-E743-475F-9E60-CB7FC38E7B3F}" uid="9CDC6A93D1784D74933828785CB8ABEA" />
+    </conditions>
+    <actions>
+      <action id="{F24DF43F-E4D4-4189-A5B0-86C79FBA951F}" uid="A42B99A63A654363BABD3C43AEB36AE9" EmailId="NoWinner" />
+      <action id="{D4819DA6-2FC6-41A9-A700-8A847F33A9A6}" uid="9047C74EC2014A819C872513E85E7616" ForcedWinnerBehavior="Original" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 11
+
+期間が満了になりました
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132527:635602947279276737Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+14d80707-6eb4-4011-8af7-0052a97b979e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133123:635602950836570674Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

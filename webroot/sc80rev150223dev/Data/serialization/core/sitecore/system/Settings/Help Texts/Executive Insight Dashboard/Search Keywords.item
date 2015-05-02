@@ -1,0 +1,307 @@
+----item----
+version: 1
+id: {F302D2E1-C3B1-461D-82B8-5A843E9BE3DE}
+database: core
+path: /sitecore/system/Settings/Help Texts/Executive Insight Dashboard/Search Keywords
+parent: {EA20C44A-AC61-44CD-9FE7-7B7AE132151A}
+name: Search Keywords
+master: {00000000-0000-0000-0000-000000000000}
+template: {11A111FF-4343-4AF8-91DC-3C49DBEDD9C6}
+templatekey: Help Text
+
+----field----
+field: {86238E01-03FA-4AC2-84AA-DD106281E85B}
+name: Key
+key: key
+content-length: 14
+
+SearchKeywords
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+1
+----version----
+language: da
+version: 1
+revision: 10a7aa5c-a970-482b-bd97-c78ec131406d
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 12
+
+Søgenøgleord
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 428
+
+Et vandret søjlediagram, der viser de mest populære søgeord, som benyttes i søgemaskiner til at finde din hjemmeside.
+
+Brug dette dashboard som en del af din søgemaskineoptimeringsstrategi til at identificere, hvilke nøgleord der er mest effektive. Sortér efter potentiale for at se, hvilke nøgleord der har størst potentiale.
+
+Standardvisningen viser de søgeord, der førte til besøg af højeste værdi arrangeret efter værdi.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Søgenøgleord
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132628:635602947881292608Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+10a7aa5c-a970-482b-bd97-c78ec131406d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132948:635602949888611719Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: f082c95c-a4c7-4e7b-8427-48c7c2d354a1
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 12
+
+Suchbegriffe
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 534
+
+Ein horizontales Balkendiagramm, welches die beliebtesten Suchbegriffe anzeigt, die in einer Suchmaschine benutzt wurden, um Ihre Website zu finden.
+
+Benutzen Sie dieses Dashboard als Bestandteil Ihrer Optimierungsstrategie für SEO Suchbegriffe, um festzustellen, welche Suchbegriffe am effektivsten sind. Ordnen Sie die Begriffe nach Potential an, um zu sehen, welche Keywords das größte Potential haben. 
+
+Die Standardansicht zeigt die Keywords an, die zu den Besuchen mit dem größten Wert geführt haben, sortiert nach dem Wert.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Suchbegriffe
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132744:635602948649409444Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f082c95c-a4c7-4e7b-8427-48c7c2d354a1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133030:635602950302670525Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 412c167e-9a0f-4b98-8bca-543b6de79130
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 15
+
+Search Keywords
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 390
+
+A horizontal bar chart that shows the most popular search keywords used in search engines to find your website.
+
+Use this dashboard as part of your SEO keyword optimization strategy to identify which keywords are most effective. Sort by Potential to see which keywords have the most potential.
+
+The default view shows the keywords that led to the highest value visits ranked by value.
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120513T192800
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+412c167e-9a0f-4b98-8bca-543b6de79130
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120608T115547:634747533477313606
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 35964793-29b6-4d97-bdbd-ccb1e99224ce
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 7
+
+検索キーワード
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 216
+
+検索エンジンから自社 Web サイトを探すときに、最もよく使われる検索キーワードを示す水平棒グラフです。
+
+このダッシュボードを SEO キーワード最適化手段の一環として使用し、最も効果的なキーワードを識別します。ポテンシャルを基準にして並べ替えると、将来のポテンシャルが最も高いキーワードを特定することができます。
+
+デフォルトのビューには、最もバリューの高い訪問をもたらしたキーワードが、バリュー順にランク付けされます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 7
+
+検索キーワード
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132504:635602947040377804Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+35964793-29b6-4d97-bdbd-ccb1e99224ce
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133113:635602950736256248Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

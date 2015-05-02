@@ -1,0 +1,248 @@
+----item----
+version: 1
+id: {D8AE44E7-80D8-4BAC-9C40-03F459C8D6A1}
+database: master
+path: /sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait
+parent: {2DE5862D-5053-4F3C-9115-1F06A09091FD}
+name: Android Tablet Portrait
+master: {00000000-0000-0000-0000-000000000000}
+template: {5CACE390-E862-4ACC-BFD5-2F26C5883F45}
+templatekey: Simulator Rotated State
+
+----field----
+field: {89E13671-A39E-432B-BD99-CF27B7F0F90D}
+name: Background Image
+key: background image
+content-length: 167
+
+<image mediaid="{B8415FE4-1F43-488E-8EA9-AEF1337EF914}" mediapath="/System/Simulator Backgrounds/Android Tablet" src="~/media/B8415FE41F43488E8EA9AEF1337EF914.ashx" />
+----field----
+field: {82E5E42D-B707-4BC2-87BB-319497BD6C93}
+name: Screen Width
+key: screen width
+content-length: 3
+
+800
+----field----
+field: {E03FC568-58B8-44E7-A410-A25208602DB4}
+name: Screen Height
+key: screen height
+content-length: 4
+
+1280
+----field----
+field: {A820E106-A624-4E1A-8F50-D672446CDF92}
+name: Screen Offset
+key: screen offset
+content-length: 5
+
+84,80
+----version----
+language: da
+version: 1
+revision: 1e917c33-cce3-4b6f-968c-1c7771b1ed7d
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 31
+
+Android-tablet i stående format
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132650:635602948101598824Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1e917c33-cce3-4b6f-968c-1c7771b1ed7d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133002:635602950020488911Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: ad7d5bd8-b74f-476d-aff9-4fd8e0c95e29
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 23
+
+Android Tablet Portrait
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132810:635602948907380648Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ad7d5bd8-b74f-476d-aff9-4fd8e0c95e29
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133043:635602950434854809Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: d9fecd50-beb6-4177-b52f-a42b47dd9036
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120406T122400
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d9fecd50-beb6-4177-b52f-a42b47dd9036
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120515T153837:634726931173435000
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 7e38bdd8-502b-448b-88be-ae4c6a615850
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 18
+
+Android タブレット （縦長）
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132532:635602947322400909Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7e38bdd8-502b-448b-88be-ae4c6a615850
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133125:635602950856102299Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

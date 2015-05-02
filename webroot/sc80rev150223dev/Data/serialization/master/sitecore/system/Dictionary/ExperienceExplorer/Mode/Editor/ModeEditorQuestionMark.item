@@ -1,0 +1,208 @@
+----item----
+version: 1
+id: {B255994E-3CE0-4FB5-89CE-195EC35200CA}
+database: master
+path: /sitecore/system/Dictionary/ExperienceExplorer/Mode/Editor/ModeEditorQuestionMark
+parent: {9827EEE3-1C8A-4CDA-9322-53C892C596E3}
+name: ModeEditorQuestionMark
+master: {00000000-0000-0000-0000-000000000000}
+template: {6D1CD897-1936-4A3A-A511-289A94C2A7B1}
+templatekey: Dictionary entry
+
+----field----
+field: {580C75A8-C01A-4580-83CB-987776CEB3AF}
+name: Key
+key: key
+content-length: 22
+
+ModeEditorQuestionMark
+----version----
+language: de-DE
+version: 1
+revision: bb3711ec-b169-46e2-a76b-d7de3a45bdf7
+
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 810
+
+<p><small><strong>Journey mode</strong></br>
+Alle Werte in der Voreinstellung oder im Editor fungieren als  Ausgangspunkt für Ihren Besuch. Beim Navigieren durch die Website, sammeln Sie Engagementwertpunkte und andere Werte von den verschiedenen Seiten, die Sie ansehen bzw. von den Handlungen, die Sie ausführen. Sehen Sie sich an, wie die Seite sich gemäß Ihren Erfahrungen verändert. Benutzen Sie den Viewer, um diese Änderungen zu überwachen.</small></p>
+
+<p><small><strong>Fixed mode</strong></br>
+Alle Werte in der Voreinstellung oder im Editor sind festgelegt und werden jedesmal aktualisiert oder gelöscht, wenn Sie zu einer anderen Webseite gehen. Dies versetzt Sie in die Lage, jede Seite für sich zu betrachten, ohne eine laufende Summe von Werten während Ihres Besuchs anzusammeln.</small></p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 23
+
+ModusEditorFragezeichen
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132807:635602948878630280Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bb3711ec-b169-46e2-a76b-d7de3a45bdf7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133042:635602950423136209Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: b29a1032-d08c-4460-a515-41950b486760
+
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 691
+
+<p><small><strong>Journey mode</strong></br>
+All values in the preset or in the Editor act as the starting point for your visit. As you navigate through the website you accumulate engagement value points and other values from the different pages that you view and the actions that you take. See how the site changes depending on your experience. Use the Viewer to monitor these changes.</small></p>
+
+<p><small><strong>Fixed mode</strong></br>
+All values in the preset or in the Editor are fixed and are refreshed or cleared every time you move to another web page. This enables you to see each page in isolation without accumulating a running total of values during your visit.</small></p>
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130225T091300
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b29a1032-d08c-4460-a515-41950b486760
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130828T171629:635133069891966882
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 61791971-d341-45d9-9ebb-c182cba9cb7c
+
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 361
+
+<p><small><strong>ジャーニー モード</strong></br>
+プリセットまたはエディターのすべての値は、訪問の開始ポイントとして動作します。Web サイトを移動するにしたがって、エンゲージメント バリュー ポイントと、表示した様々なページと実行したアクションによるその他のバリューが累積されます。Web サイトの体験に応じてサイトがどのように変化するかご確認ください。</small></p>
+
+<p><small><strong>固定モード</strong></br>
+プリセットまたはエディターの値はすべて固定で、別の Web サイトに移動するたび更新または削除されます。これによって、訪問中にバリューを累積をすることなく、個別に各ページを閲覧することができます。</small></p>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 13
+
+モード エディターの疑問符
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132529:635602947297870130Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+61791971-d341-45d9-9ebb-c182cba9cb7c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133124:635602950844852083Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

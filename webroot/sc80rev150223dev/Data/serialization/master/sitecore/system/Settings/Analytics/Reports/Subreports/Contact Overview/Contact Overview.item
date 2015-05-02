@@ -1,0 +1,309 @@
+----item----
+version: 1
+id: {397506EC-31D1-4C32-A522-C9718389EF5B}
+database: master
+path: /sitecore/system/Settings/Analytics/Reports/Subreports/Contact Overview/Contact Overview
+parent: {7F6A9C81-33D5-4B66-959B-97AE751A5522}
+name: Contact Overview
+master: {00000000-0000-0000-0000-000000000000}
+template: {6674A4AF-EACE-445E-89F1-E2F464026056}
+templatekey: Report
+
+----field----
+field: {0CC4AD84-F69D-44D2-9600-5C7522AA2401}
+name: File Name
+key: file name
+content-length: 66
+
+/sitecore/shell/Applications/Analytics/Reports/ContactOverview.mrt
+----field----
+field: {16802C7A-011A-41FF-88B4-C33E6C737F3F}
+name: Queries
+key: queries
+content-length: 0
+
+
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 22
+
+Network/32x32/keys.png
+----version----
+language: da
+version: 1
+revision: 556e545b-3cc9-48b4-91b8-d33c0397ad14
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 23
+
+Oversigt over besøgende
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 898
+
+Denne rapport hjælper dig med at besvare følgende spørgsmål:<ul><li>Hvilken værdi har denne specifikke besøgende akkumuleret?</li><li>Hvor aktiv har denne specifikke besøgende været på hjemmesiden?</li></ul>Denne rapport viser kontaktoplysningerne for en besøgende som enkeltperson og anfører de seneste besøg (maks. 50). <br/>
+Du kan bedømme denne besøgendes niveau for interesse og engagement på dennes samlede værdi og dennes aktivitetsniveau. Du kan identificere den besøgendes interesseområder ved at se på, hvilke aktiver der er downloadet, og de sider, der er læst. F.eks. kan besøg på sider med oplysninger om prisfastsættelse, uddannelse, anmodning om demo osv.  angive en interesse i at købe.<br/>
+Klik på datolinket for at åbne rapporten <i>Besøgsoplysninger<i> for den session.<br/>
+Du kom til denne rapport ved at klikke på den besøgendes navn i rapporten<i>Virksomhedsoversigt</i>.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 23
+
+Oversigt over besøgende
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132640:635602948000663908Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+556e545b-3cc9-48b4-91b8-d33c0397ad14
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132957:635602949973613011Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 557bb0dc-938d-4b60-a4aa-6e989507fded
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 18
+
+Besucher Überblick
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 985
+
+Dieser Report hilft Ihnen dabei, die folgenden Fragen zu beantworten:<ul><li>Welchen Wert hat dieser spezielle Besucher angesammelt? </li><li>Wie aktiv waren diese spezifischen Besucher auf der Website?</li></ul>Dieser Report zeigt die Kontaktinformationen eines Einzelbesuchers an und listet ihre neusten Besuche (max 50). <br/>
+Sie können das Interesse und Engagement dieses Besuchers aus dem Gesamtwert und dem Aktivitätenlevel schätzen. Sie können die Interessengebiete der Besucher identifizieren, indem sie sich die von ihnen heruntergeladenen Assets und gelesenen Seiten ansehen.  Zum Beispiel kann der Besuch von Seiten, die Informationen über Preisbildung, Training, Support, Vorführ-Anfragen und so weiter beinhalten, auf ein Kaufinteresse hinweisen.<br/>
+Klicken Sie auf den Datum-Link, um den Report <i>Besuch Detail</i> für diese Session zu öffnen.<br/>
+Sie kamen zu diesen Report, indem Sie den Namen des Besuchers im Report <i>Business Überblick</i> angeklickt haben.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 18
+
+Besucher Überblick
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132758:635602948785504088Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+557bb0dc-938d-4b60-a4aa-6e989507fded
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133037:635602950376418165Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 8391dcba-7b71-4e40-8284-eed33b02f26a
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 16
+
+Contact Overview
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 879
+
+This report helps you answer the following questions:<ul><li>What value has this specific visitor accumulated?</li><li>How active have this specific visitor been on the website?</li></ul>This report displays the contact information of an individual visitor and lists their most recent visits (max 50). <br/>
+You can estimate the level of interest and commitment of this visitor from their total value and their activity level. You can identify the visitor’s areas of interest by looking at the assets they downloaded and the pages they read. For example, visiting pages that contain information about pricing, training, support, demo requests, and so on, can indicate an interest in purchasing.<br/>
+Click the date link to open the <i>Visit Detail</i> report for that session.<br/>
+You came to this report by clicking the visitor’s name in the <i>Business Overview</i> report.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110131T153300
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8391dcba-7b71-4e40-8284-eed33b02f26a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130412T210843:635013977237284063
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: d16e2b27-18a7-4e39-92cc-a6395d64996d
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 7
+
+ビジターの概要
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 436
+
+このレポートは次のような問に答えるために役立つ情報を提供します。<ul><li>このビジターはどの評価値を累積したか。</li><li>このビジターはWebサイトでどれだけのアクティビティを行ったか。</li></ul>このレポートは個人のビジターのコンタクト情報と直近の訪問 (最大 50) を一覧表示します。<br/>
+総評価値とアクティビティ レベルによって、このビジターの関心と関わり合いの度合を評価することができます。ビジターがダウンロードしたアセットや閲覧したページを調査することによって、ビジターの関心の分野を識別することができます。たとえば、価格、トレーニング、サポート、デモの申し込みに関する情報を含むページへの訪問は購買への関心を示す場合があります。
+セッションの<i>訪問の詳細</i> レポートを開くためには、日付をクリックします。
+<i>ビジネスの概要</i> レポートでビジターの名前をクリックするとこのレポートを表示することができます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 7
+
+ビジターの概要
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132521:635602947213809244Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d16e2b27-18a7-4e39-92cc-a6395d64996d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133120:635602950806570098Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

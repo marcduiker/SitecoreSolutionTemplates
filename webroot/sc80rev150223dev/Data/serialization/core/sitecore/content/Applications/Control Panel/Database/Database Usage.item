@@ -1,0 +1,283 @@
+----item----
+version: 1
+id: {3A020DC6-9BC0-4FF3-A8D9-04A355112FFE}
+database: core
+path: /sitecore/content/Applications/Control Panel/Database/Database Usage
+parent: {82419497-F084-4C31-931F-551389260CE9}
+name: Database Usage
+master: {C5F1AA82-F831-477E-BA04-11D435D476E4}
+template: {BDB6FA46-2F76-4BDE-8138-52B56C2FC47E}
+templatekey: Task option
+
+----field----
+field: {20F47B0C-B146-4847-AC4D-0B25983514B3}
+name: Click
+key: click
+content-length: 20
+
+system:databaseusage
+----field----
+field: {8308A893-7DE3-4103-9669-A0289C96191D}
+name: Url
+key: url
+content-length: 0
+
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 135
+
+ar|sitecore\Sitecore Client Developing|pd|+item:read|pe|+item:read|ar|sitecore\Sitecore Client Maintaining|pd|+item:read|pe|+item:read|
+----version----
+language: da
+version: 1
+revision: 7cbf6013-c10a-4e35-88e6-8a499a96a218
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 16
+
+Vis databasebrug
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Databasebrug
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132559:635602947599426222Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7cbf6013-c10a-4e35-88e6-8a499a96a218
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132934:635602949740175202Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 651ab9c6-0803-4287-b5cc-49ae8f6bffa3
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 27
+
+Datenbankbenutzung anzeigen
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 20
+
+Datenbank Verwendung
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132712:635602948327686752Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+651ab9c6-0803-4287-b5cc-49ae8f6bffa3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133015:635602950150018700Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 56aa0ad5-26de-43c7-8fb6-10cd8c724d36
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 22
+
+Display database usage
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 15
+
+20050601T072104
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20061116T115041
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+56aa0ad5-26de-43c7-8fb6-10cd8c724d36
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20141009T150513:635484639137648729Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 83ba665f-4a0e-4eec-b3e6-9c601b78cf76
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 15
+
+データベース使用状況を表示する
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+データベース使用状況
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132434:635602946742715074Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+83ba665f-4a0e-4eec-b3e6-9c601b78cf76
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133056:635602950562977901Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

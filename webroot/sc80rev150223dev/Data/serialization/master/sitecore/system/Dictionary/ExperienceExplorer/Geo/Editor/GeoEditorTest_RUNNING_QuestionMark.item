@@ -1,0 +1,218 @@
+----item----
+version: 1
+id: {87091BB2-2E7B-44B6-8E69-24571E94E587}
+database: master
+path: /sitecore/system/Dictionary/ExperienceExplorer/Geo/Editor/GeoEditorTest_RUNNING_QuestionMark
+parent: {A913A5B2-B5C7-4EA5-B91C-02F157E3B26F}
+name: GeoEditorTest_RUNNING_QuestionMark
+master: {00000000-0000-0000-0000-000000000000}
+template: {6D1CD897-1936-4A3A-A511-289A94C2A7B1}
+templatekey: Dictionary entry
+
+----field----
+field: {580C75A8-C01A-4580-83CB-987776CEB3AF}
+name: Key
+key: key
+content-length: 34
+
+GeoEditorTest_RUNNING_QuestionMark
+----version----
+language: de-DE
+version: 1
+revision: 91d959c7-b133-4ec2-aac8-901779a14d83
+
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 1419
+
+<p><small>Aufgrund der folgenden Gründe können Sie  dennoch ein unerwartetes Ergebnis erfahren:</small></p>
+<ul>
+<li><small>Sie erhalten eine IP_NICHTT_GEFUNDEN Nachricht. Normalerweise wird dies von einem Besuch einer intenernen IP Adresse  (wie 192.*.*.* oder 10.*.*.*) aus Ihrem - Firmennetzwerk, Überwachungssystem, etc verursacht. Solche Adressen können nicht vonb Ihrem You Geo IP Lookup Provider beseitigt werden. 
+
+Solche IPs sollten daher entweder gelöscht werden - oder - sie müssen Ihre Entwickler bitten, den Geo IP Cache und vorhandene Besuchs- und Standortdaten in der Analytics Datenbank für die spezielle IP manuell zu aktualisieren . </small></li>
+<li><small>Sie erhalten eine Systemnachricht. Sitecore verwendet eine lokale (cached) Datenbank, um eine höhere Leistung zu gewährleisten und die Anzahl (und Kosten) der Look-Ups minimal zu halten. 
+Wenn der Geo Ip Service temporär deaktiviert wurde, kann der Grund hierfür bei einer ungültigen IP-Registrierung in der lokalen Datenbank (cached) liegen. SOlche Situationen können während der Entwickung Ihrer Seite auftreten, oder wenn Ihre Lizenz temporär ungültig war, z.B. wegen 'out-of-queries'.
+Um solche Probleme zu lösen, kontaktieren Sie bitte Ihre Entwickler vor Ort und bitten Sie sie, den GeoIP Cache und vorhandene Besuchs- und Standortdaten in der Analytics Datenbank für die spezielle IP manuell zu untersuchen  .</small></li>
+</ul>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 34
+
+GeoEditorTest_RUNNING_QuestionMark
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132804:635602948845504856Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+91d959c7-b133-4ec2-aac8-901779a14d83
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133040:635602950406886417Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 9f882808-e2a1-413d-934b-7a56ce79ed1f
+
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 1236
+
+<p><small>You may still experience an unexpected result, due to one of the following reasons:</small></p>
+<ul>
+<li><small>You recieve a IP_NOT_FOUND message. Usually, this is caused by a visits from an internal IP address (like 192.*.*.* or 10.*.*.*) - your company network, monitoring systems, etc. Such addresses cannot be resolved by You Geo IP Lookup provider. 
+
+Such IP should therefore either be discarded - or - ask your developers to manually update the Geo IP cache and existing Visits and Locations data in the analytics database for the specific IP.</small></li>
+<li><small>You receive a System Message. Sitecore uses a local (cached) database to ensure higher performance and keep the numbers (and cost) of look-ups to a minimum. 
+If the Geo Ip Service has temporarily been disabled, the reason may be caused by an invalid IP registration in the local (cached) database. Such situations may occur during the development of Your site, or, if the license has temporarily been invalid i.e. out-of-queries
+To correct these issues please contact Your local developers and ask them to manually inspect the GeoIP cache and existing Visits and Locations data in the analytics database for the specific IP.</small></li>
+</ul>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130314T081135
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9f882808-e2a1-413d-934b-7a56ce79ed1f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130829T132650:635133796101092037
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 96a91e40-5c6e-4f30-8751-7a9419dd5ed1
+
+----field----
+field: {2BA3454A-9A9C-4CDF-A9F8-107FD484EB6E}
+name: Phrase
+key: phrase
+content-length: 729
+
+<p><small>以下の理由で想定外の結果が引き続き発生する場合があります。</small></p>
+<ul>
+<li><small>IP_NOT_FOUND メッセージを受信しました。通常このメッセージは、会社のネットワークや監視システムなどの内部 IP アドレス (たとえば 192.*.*.* または 10.*.*.*) からの訪問によって発生します。このようなアドレスを You Geo IP Lookup プロバイダーで解決することはできません。
+
+したがって、このような IP は破棄してください。または、特定の IP 用のアナリティクス データベースで、 Geo IP キャッシュと既存の訪問およびロケーション データ を手動で更新するように開発者に依頼してください。</small></li>
+<li><small>システム メッセージを受信します。 Sitecore はローカル (キャッシュ済み) データベースを使用して、高度なパフォーマンスを確実にし、ルックアップの数 (また費用) を最小限に維持します。
+Geo IP Service が一時的に無効化されている場合、ローカル (キャッシュ済み) データベースに無効な IP が登録されたことが要因と考えられます。このような状況は、サイトの開発中や、ライセンスが一時的に無効な場合 (例：クエリがない場合) に発する可能性があります。
+これらの問題を解決するには、特定の IP 用のアナリティクス データベースで、 Geo IP キャッシュと既存の訪問およびロケーション データ を手動で更新するように開発者に依頼してください。</small></li>
+</ul>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 22
+
+実行中の Geo エディター テストの疑問符
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132526:635602947268026953Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+96a91e40-5c6e-4f30-8751-7a9419dd5ed1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133123:635602950831414325Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

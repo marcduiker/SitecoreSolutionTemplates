@@ -1,0 +1,307 @@
+----item----
+version: 1
+id: {DC381332-2ECC-45BD-A490-5C9E6F28F926}
+database: core
+path: /sitecore/system/Settings/Help Texts/Executive Insight Dashboard/Source Value
+parent: {EA20C44A-AC61-44CD-9FE7-7B7AE132151A}
+name: Source Value
+master: {00000000-0000-0000-0000-000000000000}
+template: {11A111FF-4343-4AF8-91DC-3C49DBEDD9C6}
+templatekey: Help Text
+
+----field----
+field: {86238E01-03FA-4AC2-84AA-DD106281E85B}
+name: Key
+key: key
+content-length: 11
+
+SourceValue
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+1
+----version----
+language: da
+version: 1
+revision: 1a49286b-1cef-4ff3-b28c-a5d4fb2c1d35
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 10
+
+Kildeværdi
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 553
+
+Dette lagkagediagram viser oplysninger om det første kontaktpunkt for en besøgende på din side (den besøgendes første "kilde" til kontakt). Det viser, hvilke trafiktyper der har ført til besøg af den højeste værdi.
+
+Brug dette dashboard til at få et overblik over kildeværdi. Identificer den trafiktype, som de besøgende af høj værdi ankommer via til din hjemmeside. Det kan hjælpe dig med at vurdere, hvilke trafiktyper der er mest effektive.
+
+Dette dashboard omfatter en tendenstabel, der giver dig mulighed for at sammenligne kildeværdi over tid.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+Kildeværdi
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132624:635602947845200013Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1a49286b-1cef-4ff3-b28c-a5d4fb2c1d35
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132946:635602949867830602Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 32695cbe-0d51-43f3-9f50-e031ca29ae78
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 11
+
+Quellenwert
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 664
+
+Dieses Kreisdiagramm zeigt Informationen über den ersten Kontaktpunkt eines Seitenbesuchers (die erste “Quelle” des Kontakts eines Besuchers). Es zeigt welche Traffic-Typen zu den Besuchen mit dem größten Wert geführt haben. 
+
+Benutzen Sie dieses Dashboard, um sich einen Überblick über den Quellenwert zu verschaffen. Identifizieren Sie die Traffic-Typen, durch die Ihre Besucher mit hohem Wert zunächst auf Ihre Website kamen.  Dies kann Ihnen dabei helfen zu beurteilen, welche Ihrer Traffic-Typen die effektivsten sind.
+
+Dieses Dashboard enthält auch ein Entwicklungstabelle, welche Ihnen einen Vergleich des Quellenwerts in zeitlicher Hinsicht ermöglicht.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 11
+
+Quellenwert
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132741:635602948610815376Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+32695cbe-0d51-43f3-9f50-e031ca29ae78
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133028:635602950284233615Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 6f49f18f-2735-45d6-bee5-818ddccb5a7f
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 12
+
+Source Value
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 529
+
+This pie chart displays information about the first point of contact for a site visitor (the visitor’s first “source” of contact). It shows which traffic types have led to the highest value visits.
+
+Use this dashboard to get an overview of source value. Identify the traffic type through which your high value visitors first arrive on your website. This can help you to assess which of your traffic types are the most effective.
+
+This dashboard also includes a Trend table that allows you to compare source value over time.
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120513T192700
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6f49f18f-2735-45d6-bee5-818ddccb5a7f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120608T115427:634747532676047897
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 81f431bf-d422-4ccf-97c3-8340ef7419eb
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 8
+
+ソース バリュー
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 235
+
+この円グラフは、サイト訪問者の最初の接点 (訪問者の接点の "参照元") に関する詳細情報を表示します。最も高いバリューをもたらしたトラフィックを示します。
+
+このダッシュボードを使用し、ソース バリューの概要を得ることができます。最も高いバリューをもたらしたトラフィックを確認することができます。これにより、最も効果的なトラフィックを評価することができます。
+
+このダッシュボードには、ソース バリューを時間軸に比較することができる、トレンドの表も含まれます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+ソース バリュー
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132500:635602947002877984Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+81f431bf-d422-4ccf-97c3-8340ef7419eb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133111:635602950715005840Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

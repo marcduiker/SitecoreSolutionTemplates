@@ -1,0 +1,308 @@
+----item----
+version: 1
+id: {0898AB8C-87D4-4639-88E7-4E1C81E7F84C}
+database: master
+path: /sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Latest Failures
+parent: {EF2D7FDA-0687-4C1B-901F-849BC1FA7F6B}
+name: Latest Failures
+master: {00000000-0000-0000-0000-000000000000}
+template: {6674A4AF-EACE-445E-89F1-E2F464026056}
+templatekey: Report
+
+----field----
+field: {0CC4AD84-F69D-44D2-9600-5C7522AA2401}
+name: File Name
+key: file name
+content-length: 65
+
+/sitecore/shell/Applications/Analytics/Reports/LatestFailures.mrt
+----field----
+field: {16802C7A-011A-41FF-88B4-C33E6C737F3F}
+name: Queries
+key: queries
+content-length: 51
+
+Failures=%7bF372C702-D4F6-4642-938A-1E59A1CAD3FD%7d
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 27
+
+People/32x32/Clock_stop.png
+----version----
+language: da
+version: 1
+revision: 69117279-a81c-49bb-a514-06067d319926
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 25
+
+Seneste mislykkede forsøg
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 819
+
+Denne rapport hjælper dig med at besvare følgende spørgsmål:<ul><li>Hvor opstår der mislykkede forsøg på hjemmesiden?</li></ul>Denne rapport anfører mislykkede forsøg efter tidspunkt for forekomst. Eksempler på de anførte problemer er:<ul><li>Side ikke fundet</li><li>Ingen søgehit fundet</li><li>Framelding</li></ul>Rapporten viser dato og tidspunkt for forekomsten, mislykket forsøgstype, URL for placering af mislykket forsøg og yderlige oplysninger om mislykket forsøg som f.eks. "søgeord" eller "Siden .... ikke fundet."
+Brug denne rapport for at identificere mislykkede forsøg med henblik på fejlafhjælpning.<br/>
+Kør denne rapport hver dag for at identificere problemer på din hjemmeside.
+Klik på Beskrivelse af mislykket forsøg for at åbne Besøgsoplysningsrapporten og få vist besøgsoplysninger og aktivitet.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 25
+
+Seneste mislykkede forsøg
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132637:635602947972539688Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+69117279-a81c-49bb-a514-06067d319926
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132955:635602949958612723Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 2dbb5713-80e3-4677-86fb-b5fc30e75796
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 16
+
+Neueste Ausfälle
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 907
+
+Dieser Report hilft Ihnen dabei, die folgende Frage zu beantworten:<ul><li>Wo auf dieser Seite kommen Störungen vor?</li></ul>Dieser Report listet Störungen nach dem Zeitpunkt des Auftretens. Beispiele aufgelisteter Probleme sind:<ul><li>Seite nicht gefunden</li><li>Keine Suchtreffer gefunden (lokale Suchen)</li><li>Abbestellen</li><li>Login</li></ul>Der Report zeigt das Datum und die Uhrzeit des Auftretens, die Art des Störfalls, URL des Orts der Störung und weitere Informationen, die mit der Störung in Zusammenhang stehen, wie “Suchbegriff” oder “Die Seite … wurde nicht gefunden.”
+Benutzen Sie diesen Report zur Identifizierung von Störungen zur Fehlerbehebung.<br/>
+Führen Sie diesen Report täglich aus, um Probleme auf Ihrer Website zu identifizieren.
+Klicken Sie auf das Störungsskript, um den Report Besuchsdetails zu öffnen, wo Sie dann die Besucherinformationen und Aktivität sehen können.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+Neueste Ausfälle
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132754:635602948749566335Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2dbb5713-80e3-4677-86fb-b5fc30e75796
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133035:635602950358449990Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 56349287-3f13-40d1-95b6-885fab6538ac
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 15
+
+Latest Failures
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 746
+
+This report helps you answer the following question:<ul><li>Where do failures occur on the website?</li></ul>This report lists failures by time of occurrence. Examples of problems listed are:<ul><li>Page Not Found</li><li>No Search Hits Found (local searches)</li><li>Unsubscribe</li><li>Login</li></ul>The report shows the date and time of occurrence, type of failure, URL of failure location, and additional information related to the failure such as “search term”, or “The page … not found.”
+Use this report to identify failures for troubleshooting.<br/>
+Run this report every day to identify problems on your website.
+Click the Failure description to open the Visit Details report where you can see the visitor information and activity. 
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110412T111203
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+56349287-3f13-40d1-95b6-885fab6538ac
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110513T135527:634408917274107874
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: d63034d2-4c60-4f18-886d-89216b8275aa
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 6
+
+最新のエラー
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 403
+
+このレポートは次の用途に使用できます：<ul><li>直近でどのようなエラーがウェブサイト上で発生しているか？</li></ul>このレポートは発生した問題の一覧です。 例：以下の問題が表示されます<ul><li>ページが見つかりません</li><li>検索結果がみつかりません (ローカル検索)</li><li>購読の解除</li><li>ログイン</li></ul>このレポートは発生日時、エラーの種類、エラー場所の URL および「検索ワード」や「ページが見つかりません」に関連する追加情報を表示します。このレポートを使用してトラブルシューティングを行うエラーを特定してください。<br/>
+このレポートはウェブサイトの問題を識別するために毎日チェックしてください。[エラー] 項目の説明クリックして [訪問の詳細] レポートを表示し、セッション内のすべてのアクティビティを閲覧することもできます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+最新のエラー
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132518:635602947181309892Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d63034d2-4c60-4f18-886d-89216b8275aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133119:635602950790944798Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,309 @@
+----item----
+version: 1
+id: {A9C29033-EEBC-463F-8305-50D331CBC347}
+database: master
+path: /sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Activity/Unclassified Organizations
+parent: {84C5007A-DF57-4215-A4B9-77A13212F1E3}
+name: Unclassified Organizations
+master: {00000000-0000-0000-0000-000000000000}
+template: {6674A4AF-EACE-445E-89F1-E2F464026056}
+templatekey: Report
+
+----field----
+field: {0CC4AD84-F69D-44D2-9600-5C7522AA2401}
+name: File Name
+key: file name
+content-length: 81
+
+/sitecore/shell/Applications/Analytics/Reports/TopLeadsByActivityUnclassified.mrt
+----field----
+field: {16802C7A-011A-41FF-88B4-C33E6C737F3F}
+name: Queries
+key: queries
+content-length: 109
+
+DataSource=%7bB03BB007-FB91-44E2-A3AE-A3B6DBD99F82%7d&Subscription=%7b01B7653E-2ADD-409B-8000-E215D46F0F6B%7d
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 32
+
+Business/32x32/phone_pick_up.png
+----version----
+language: da
+version: 1
+revision: 2b01f02b-225e-4bf2-92ea-e0d1cf4c16d9
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 81
+
+Vigtigste potentielle kunder efter aktivitet - Ikke-klassificerede organisationer
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 1057
+
+Denne rapport hjælper dig med at besvare følgende spørgsmål:<ul><li>Hvilke ikke-klassificerede organisationer har vist en øget interesse og et højere aktivitetsniveau på hjemmesiden i en specifik tidsperiode?</li></ul>Denne rapport anfører de klassificerede organisationer med den højeste aktivitetsscoring. Denne rapport hjælper dig med at identificere de organisationer, der evt. bevæger sig i retning af rapporten <i>Vigtigste potentielle kunder efter værdi</i>, og som kan blive kundeemner. Organisationerne anført i denne rapport har et højt aktivitetsniveau, men har måske endnu ikke akkumuleret høj værdi endnu.<br/>
+Værdi er en vægtning på baggrund af en værdi iværksat af en organisation som f.eks. anmodning om en onlinedemonstration. Aktivitetsniveauer beregnes af en algoritme, der måler aktiviteten som en eller flere unikke besøgende over tid.<br/>
+Kør denne rapport hver uge eller måned for at identificere organisationer med høje aktivitetsniveauer.<br/>
+Klik på navnet på en organisation for at åbne rapporten <i>Virksomhedsoversigt</i>.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 34
+
+Ikke-klassificerede organisationer
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132647:635602948071443346Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2b01f02b-225e-4bf2-92ea-e0d1cf4c16d9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133000:635602950006426141Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 24ea4f98-93e1-4fc6-9542-45d100e67bb5
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 58
+
+Top Leads nach Aktivität - Unklassifizierte Organisationen
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 1209
+
+Dieser Report hilft Ihnen dabei, die folgende Frage zu beantworten:<ul><li>Welche nicht-klassifizierten Unternehmen haben ein gesteigertes Interesse und vermehrte Aktivität auf der Website während eines spezifischen Zeitraums gezeigt?</li></ul>Dieser Report listet die klassifizierten Unternehmen, die das höchste Aktivitätsergebnis haben. Dieser Report hilft Ihnen dabei, diejenigen Unternehmen, die sich u.U. in die Richtung des <i>Top Leads nach Wert</i> Reports bewegen und zu potentiellen Kunden werden könnten, zu identifizieren. Die in diesem Report gelisteten Unternehmen zeigen ein hohes Maß an Aktivität, haben jedoch u.U. noch keine hohen Werte akkumuliert.<br/>Wert ist eine Bewertung, die auf eine von einem Unternehmen initiierte Aktivität, wie die Nachfrage für eine Online-Vorführung, gegeben wird. Der Aktivitätslevel wird mit einem Algorithmus berechnet, der die Aktivität eines oder mehrerer spezifischen/spezifischer Besucher(s) im Laufe der Zeit misst.<br/>
+Führen Sie diesen Report wöchentlich oder monatlich aus, um so Unternehmen mit hohen Aktivitätsleveln identifizieren zu können.<br/>
+Klicken Sie den Namen eines Unternehmens an, um den <i>Business Überblick</i> Report zu öffnen.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 31
+
+Unklassifizierte Organisationen
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132807:635602948871755192Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+24ea4f98-93e1-4fc6-9542-45d100e67bb5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133042:635602950420167497Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: a4bb033b-6103-4352-9bdd-41f757241269
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 50
+
+Top Leads by Activity – Unclassified Organizations
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 982
+
+This report helps you answer the following question:<ul><li>Which unclassified organizations have shown an increased interest and a greater amount of activity on the website during a specified period of time?</li></ul>This report lists the classified organizations that have the highest activity score. This report helps you identify the organizations that may be moving towards the <i>Top Leads by Value</i> report and could become prospects. The organizations listed in this report have a high level of activity, but may not have accumulated high values yet.<br/>
+Value is a weighting placed on an activity initiated by an organization, such as requesting an online demonstration. Activity Level is calculated by an algorithm that measures the activity of one or more unique visitors over time.<br/>
+Run this report every week or month to identify organizations with high levels of activity.<br/>
+Click the name of an organization to open the <i>Business Overview</i> report.
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110125T104004
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a4bb033b-6103-4352-9bdd-41f757241269
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130226T151726:634974886469260355
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: fa77920c-6142-4683-8d9f-296abe11c852
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 24
+
+上位リード (アクティビティ) - 未分類の組織
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 504
+
+このレポートは次のような問に答えるために役立つ情報を提供します。<ul><li>ある期間中に未分類のどの組織が Web サイトに深い関心を示し、多くのアクティビティを行ったか。</li></ul>このレポートは高いアクティビティ スコアを持つ分類済みの組織を一覧表示します。このレポートは<i>評価値による上位のリード (見込み顧客) </i>レポート に向かっている、見込み顧客となる可能性のある組織を識別するために役立つ情報を提供します。このレポートに一覧表示されている組織は高いアクティビティ レベルを持っていますが、集計評価値は高くない場合もあります。<br/>
+評価値は組織によってなされたアクティビティによって重み付けされています。たとえば、オンライン デモの申し込みなどです。アクティビティ レベルは、ある期間中におけるユニーク ビジターのアクティビティを測定するアルゴリズムによって計算されます。
+このレポートを毎週または毎月実行して、アクティビティ レベルの高い組織を識別することができます。<br/>
+<i>ビジネスの概要</i>レポートを開くためには、組織の名前をクリックします。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 24
+
+上位リード (アクティビティ) - 未分類の組織
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132529:635602947291307756Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fa77920c-6142-4683-8d9f-296abe11c852
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133124:635602950842039529Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

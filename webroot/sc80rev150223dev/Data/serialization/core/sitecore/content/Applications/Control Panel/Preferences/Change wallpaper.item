@@ -1,0 +1,269 @@
+----item----
+version: 1
+id: {DE786867-C61C-4CB4-96E5-08FC221B1CC6}
+database: core
+path: /sitecore/content/Applications/Control Panel/Preferences/Change wallpaper
+parent: {B5B44327-05B7-4C58-BFAE-4087207CDB4F}
+name: Change wallpaper
+master: {C5F1AA82-F831-477E-BA04-11D435D476E4}
+template: {BDB6FA46-2F76-4BDE-8138-52B56C2FC47E}
+templatekey: Task option
+
+----field----
+field: {20F47B0C-B146-4847-AC4D-0B25983514B3}
+name: Click
+key: click
+content-length: 27
+
+preferences:changewallpaper
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+10
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 66
+
+ar|sitecore\Sitecore Client Authoring|pd|+item:read|pe|+item:read|
+----version----
+language: da
+version: 1
+revision: d20ff226-bb30-4259-8aa0-b0a77b741526
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 29
+
+Skift din skrivebordsbaggrund
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Skift baggrund
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132624:635602947849106138Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d20ff226-bb30-4259-8aa0-b0a77b741526
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132946:635602949869549341Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 9838362c-1058-47b3-ad8e-31c1d08dadd9
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 38
+
+Ändern Sie Ihren Bildschirmhintergrund
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+Wallpaper ändern
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132741:635602948615034180Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+9838362c-1058-47b3-ad8e-31c1d08dadd9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133028:635602950287046025Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: bdc821e5-c4ce-4898-bc8f-65b650956d4e
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 25
+
+Change desktop background
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20140829T114236:635449093566918230Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bdc821e5-c4ce-4898-bc8f-65b650956d4e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20140829T114236:635449093566918230Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 5ebc14a2-77c3-4a02-9679-cbaf8ae971da
+
+----field----
+field: {48323B75-9F6A-4779-AC8B-A01DA56B35B3}
+name: Header
+key: header
+content-length: 13
+
+デスクトップ背景を変更する
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 13
+
+デスクトップ背景を変更する
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132500:635602947007253096Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5ebc14a2-77c3-4a02-9679-cbaf8ae971da
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133111:635602950717349635Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

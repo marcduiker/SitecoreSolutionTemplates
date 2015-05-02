@@ -1,0 +1,310 @@
+----item----
+version: 1
+id: {8204BE3B-0920-4F5D-A5FB-5A8AAD766E2C}
+database: master
+path: /sitecore/system/Settings/Analytics/Reports/Subreports/Business Visits/Business Visits
+parent: {A456F5C5-FE28-4F97-A555-675B8F145AAB}
+name: Business Visits
+master: {00000000-0000-0000-0000-000000000000}
+template: {6674A4AF-EACE-445E-89F1-E2F464026056}
+templatekey: Report
+
+----field----
+field: {0CC4AD84-F69D-44D2-9600-5C7522AA2401}
+name: File Name
+key: file name
+content-length: 65
+
+/sitecore/shell/Applications/Analytics/Reports/BusinessVisits.mrt
+----field----
+field: {16802C7A-011A-41FF-88B4-C33E6C737F3F}
+name: Queries
+key: queries
+content-length: 159
+
+DataSource=%7b2A169D37-2090-494F-806F-3155BDB6DF9C%7d&Visits=%7bF3776FD4-C9F5-45C6-9EEE-25D34B898695%7d&Subscription=%7b01B7653E-2ADD-409B-8000-E215D46F0F6B%7d
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 22
+
+Network/32x32/keys.png
+----version----
+language: da
+version: 1
+revision: 0657e869-2e54-433a-90f1-ee7efdbaf1fc
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 16
+
+Virksomhedsbesøg
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 1237
+
+Denne rapport hjælper dig med at besvare følgende spørgsmål:<ul><li>Hvor aktive har forretningsenheder og enkeltpersoner fra den forretningsenhed været på websitet inden for en angiven periode?</li></ul>Denne rapport anfører al aktivitet for en virksomhed i kronologisk rækkefølge. Hvis rapporten er for hele virksomheden, viser den aktiviteterne for flere forretningsenheder. Hvis denne rapport er for en specifik forretningsenhed, viser den aktiviteten for den forretningsenhed.<br/>
+ Du kom til denne rapport ad en af to veje. <br/>
+<ul><li>Hvis du klikkede på Samlede besøg øverst i rapporten <i>Virksomhedsoversigt</i>, anfører denne rapport de sidste 50 besøg fra den omhandlede virksomhed. </li>
+<li>Hvis du klikkede på antallet af besøg foretaget af en bestemt forretningsenhed i nederste sektion i rapporten <i>Virksomhedsoversigt</i>, anfører denne rapport de sidste 50 besøg foretaget af den forretningsenhed.</li></ul>Yderligere oplysninger:<ul><li>For at åbne rapporten <i>Oversigt over besøgende</i> skal du klikke på tallet i kolonnen Besøgsnr.</li><li>For at åbne rapporten <i>Besøgsoplysninger</i>, der anfører alle de aktiviteter, som den besøgende udførte på et specifikt besøg, skal du klikke på en dato.</li></ul>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+Virksomhedsbesøg
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132644:635602948046756478Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0657e869-2e54-433a-90f1-ee7efdbaf1fc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132959:635602949995019672Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 466a21fb-3cc7-4785-8967-5fed2c2504ea
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 16
+
+Business Besuche
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 1422
+
+Dieser Report hilft Ihnen dabei, die folgende Frage zu beantworten:<ul><li>Wie aktiv waren Geschäftsbereiche und Einzelpersonen aus diesem Geschäftsbereich auf der Website während einer spezifischen Zeitdauer?</li></ul>Dieser Report listet in chronologischer Reihenfolge die gesamte Aktivität eines Unternehmens auf.  Wenn der Report für das gesamte Unternehmen ist, dann zeigt er die Aktivität mehrerer Geschäftsbereiche auf. Wenn dieser Report für einen bestimmten Geschäftsbereich ist, dann zeigt er nur die Aktivität dieses Geschäftsbereichs an.<br/>
+Sie kamen zu diesem Report auf eine von zwei Arten. <br/>
+<ul><li>Wenn Sie Besuche Insgesamt geklickt haben, ganz oben im <i>Business Überblick</i> Report, listet dieser Report bis hin zu den letzten 50 gemachten Besuchen des fraglichen Geschäftsbereichs. </li>
+<li>Wenn Sie auf die Anzahl der Besuche, die von einem spezifischen Geschäftsbereich gemacht wurden, im unteren Bereich des Reports <i>Business Überblick </i> geklickt haben, dann listet dieser Report bis hin zu den letzten 50 gemachten Besuchen dieses Geschäftsbereichs.</li></ul>Weitere Informationen:<ul><li>Um den Report <i>Besucher Überblick</i> zu öffnen, klicken Sie auf die Nummer in der Besuch # Spalte.</li><li>Um den Report <i>Besuch Detail</i>, der alle Aktivitäten, die der Besucher während eines spezifischen Besuchs getätigt hat auflistet, zu öffnen, klicken Sie auf ein Datum.</li></ul>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+Business Besuche
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132804:635602948841598556Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+466a21fb-3cc7-4785-8967-5fed2c2504ea
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133040:635602950404698945Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: ff4ea156-2a1a-4395-b85c-f2ee1ec2fc16
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 15
+
+Business Visits
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 1172
+
+This report helps you answer the following question:<ul><li>How active have business units and individuals from that business unit been on the website during a specified period of time?</li></ul>This report lists all the activity of a business in chronological order. If the report is for the entire business, it shows the activities of multiple business units. If this report is for a particular business unit, it only shows the activity of that business unit.<br/>
+You came to this report in one of two ways. <br/>
+<ul><li>If you clicked Total Visits at the top of the <i>Business Overview</i> report, this report lists up to the last 50 visits made by the business in question. </li>
+<li>If you clicked the number of visits made by a specific business unit in the bottom section of the <i>Business Overview</i> report, this report lists up to the last 50 visits made by that business unit.</li></ul>Additional information:<ul><li>To open the <i>Visitor Overview</i> report, click the number in Visit # column.</li><li>To open the <i>Visit Detail</i> report that lists all the activities that the visitor carried out during a specific visit, click a date.</li></ul>
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110131T105928
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ff4ea156-2a1a-4395-b85c-f2ee1ec2fc16
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110411T111845:634381175254423429
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: f52d883c-c54d-483d-8627-4e60691fa441
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 6
+
+ビジネス訪問
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 634
+
+このレポートは次のような問に答えるために役立つ情報を提供します。<ul><li>部署またはその部署の個人が、ある期間中に、Web サイトでどれだけのアクティビティを行ったか。</li></ul>このレポートはビジネス組織からなされたアクティビティを時系列に一覧で示します。レポートがビジネス組織全体を対象とする場合には、複数の部署からなされたアクティビティを示します。レポートが特定の部署を対象とする場合には、その部署からなされたアクティビティのみを示します。<br/>
+次のいずれかの方法によりこのレポートを表示することができます。<br/>
+<ul><li><i>ビジネスの概要</i> レポートの最上部にある [訪問の数] をクリックすると、このレポートはそのビジネス組織からなされた直近の最大 50 の訪問を表示します。</li>
+<li><i>ビジネスの概要</i> レポートの下部にある特定の部署による訪問の数をクリックすると、このレポートはその部署からなされた直近の最大 50 の訪問を表示します。</li></ul>追加情報: <ul><li><i>ビジターの概要</i>レポートを開くためには、[訪問の数] の列にある数をクリックします。</li><li><i>訪問の詳細</i> レポートを開くためには、日付をクリックします。訪問の詳細レポートは、そのビジターがその訪問の間に行ったアクティビティのすべてを一覧表示します。</li></ul>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+ビジネス訪問
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132526:635602947264120778Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f52d883c-c54d-483d-8627-4e60691fa441
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133122:635602950829851795Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,262 @@
+----item----
+version: 1
+id: {6AD1FF16-888E-40A4-B649-893120F12252}
+database: core
+path: /sitecore/system/Settings/Html Editor Profiles/Rich Text IDE/Links/Google
+parent: {3E136CCF-F8FC-48FA-AB48-4193282ABFBB}
+name: Google
+master: {86584D00-3712-4928-B9A0-C2058E098537}
+template: {D73319BC-E3DF-45B9-B545-A255AA7E3C88}
+templatekey: Html Editor Html Item
+
+----field----
+field: {CA0ADFC1-B5D8-4338-AAEC-F0DADD0F5C55}
+name: Value
+key: value
+content-length: 21
+
+http://www.google.com
+----version----
+language: da
+version: 1
+revision: f2dee974-d157-4fca-9147-be081f067302
+
+----field----
+field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
+name: Header
+key: header
+content-length: 85
+
+<img src="http://cutesoft.net/data/Google.gif" align="absMiddle" border="0" /> Google
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Google
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132607:635602947673174268Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f2dee974-d157-4fca-9147-be081f067302
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T132938:635602949782049901Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 6cf27c8c-4428-4cd7-bcc9-119c6a4c06a8
+
+----field----
+field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
+name: Header
+key: header
+content-length: 85
+
+<img src="http://cutesoft.net/data/Google.gif" align="absMiddle" border="0" /> Google
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Google
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132721:635602948411281572Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6cf27c8c-4428-4cd7-bcc9-119c6a4c06a8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133018:635602950189705184Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 349eaaaa-61ed-4470-85b1-07b4592a7ce6
+
+----field----
+field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
+name: Header
+key: header
+content-length: 85
+
+<img src="http://cutesoft.net/data/Google.gif" align="absMiddle" border="0" /> Google
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 15
+
+20060201T122037
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20060201T122037
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+349eaaaa-61ed-4470-85b1-07b4592a7ce6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20080303T131248
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+sitecore\Anonymous
+----version----
+language: ja-JP
+version: 1
+revision: b660b946-cfac-4356-b987-4b81e0c9a3cd
+
+----field----
+field: {4BFAA1D9-C66A-45AC-BE10-99DFE91739D8}
+name: Header
+key: header
+content-length: 85
+
+<img src="http://cutesoft.net/data/Google.gif" align="absMiddle" border="0" /> Google
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Google
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132441:635602946819748296Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b660b946-cfac-4356-b987-4b81e0c9a3cd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133101:635602950610320439Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

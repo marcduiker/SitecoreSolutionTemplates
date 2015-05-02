@@ -1,0 +1,208 @@
+----item----
+version: 1
+id: {03FAF4B1-CAB7-4306-BEEF-64E2E366931C}
+database: master
+path: /sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience/Preset
+parent: {51CAFBDA-A980-4DEB-989A-AD288D76F5D7}
+name: Preset
+master: {00000000-0000-0000-0000-000000000000}
+template: {E360BED5-B72B-4C02-890F-E434486DE3F1}
+templatekey: Control
+
+----field----
+field: {AD8D5F6D-D0A3-4F86-A4E7-C29FF7427597}
+name: Path
+key: path
+content-length: 88
+
+/sitecore modules/Web/ExperienceExplorer/Controls/Experience/Settings/PresetsViewer.ascx
+----field----
+field: {64461E27-1C6A-4AA2-BDA8-44E5316EF09E}
+name: Method
+key: method
+content-length: 26
+
+GetViewerExperiencePresets
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+50
+----version----
+language: de-DE
+version: 1
+revision: e54c4bbe-1fde-432e-b104-3a25d659f7aa
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 14
+
+Voreinstellung
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+Voreinstellung
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132754:635602948745503809Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e54c4bbe-1fde-432e-b104-3a25d659f7aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133035:635602950356418805Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 291baf3b-5b1e-422a-ad48-14a1d6f4dd64
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 6
+
+Preset
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130401T204659
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+291baf3b-5b1e-422a-ad48-14a1d6f4dd64
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130911T102327:635144918074371278
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 8ee6b646-33f4-4cf2-9b76-46249d4c73f1
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 5
+
+プリセット
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+プリセット
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150223T132517:635602947177716280Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8ee6b646-33f4-4cf2-9b76-46249d4c73f1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150223T133118:635602950788913509Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
