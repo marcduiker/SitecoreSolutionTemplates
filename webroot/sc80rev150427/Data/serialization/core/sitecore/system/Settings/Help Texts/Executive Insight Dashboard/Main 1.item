@@ -1,0 +1,299 @@
+----item----
+version: 1
+id: {D1896F60-E0C5-4E65-9EC1-3A77FA70E770}
+database: core
+path: /sitecore/system/Settings/Help Texts/Executive Insight Dashboard/Main 1
+parent: {EA20C44A-AC61-44CD-9FE7-7B7AE132151A}
+name: Main 1
+master: {00000000-0000-0000-0000-000000000000}
+template: {11A111FF-4343-4AF8-91DC-3C49DBEDD9C6}
+templatekey: Help Text
+
+----field----
+field: {86238E01-03FA-4AC2-84AA-DD106281E85B}
+name: Key
+key: key
+content-length: 4
+
+Main
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+1
+----version----
+language: da
+version: 1
+revision: 02621b6f-e62f-4a8c-bf0c-077b22b9e222
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 9
+
+Hovedside
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 711
+
+Dashboardet Ledelsesindsigt indeholder en række forskellige diagrammer, som du kan bruge til at analysere trafik og kampagnedata. De diagrammer, der er tilgængelige, varierer, afhængigt af hvilken type data du vælger at få vist. Trafikdiagrammer viser data ifm. en hjemmesides samlede værdi, besøg, markedsføringseffektivitet, brand awareness, søgemaskineoptimering og konverteringer. Kampagnediagrammer sammenligner en bestemt kampagnes værdi, besøg, markedsføringseffektivitet, søgemaskineoptimering og konverteringer.
+
+Tips
+Før musen hen over søjler og linjer i et dashboard for at få vist en pop op-menu, der indeholder en mere detaljeret inddeling af værdien pr. besøg og potentialet genereret af besøg.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Overordnet 1
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173227:635657527478144407Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+02621b6f-e62f-4a8c-bf0c-077b22b9e222
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180203:635657545230553402Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: c4c16650-5160-47de-bba0-7b540219853b
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 10
+
+Hauptseite
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 795
+
+Das Executive Insight Dashboard enthält eine Auswahl von unterschiedlichen Diagrammen, die Sie ansehen können, um Ihre Traffic- und Kampagnedaten zu analysieren.  Die verfügbaren Diagramme können je nach dem von Ihnen ausgewählten Datentypen unterschiedliche sein.  Traffic-Diagramme zeigen Daten, die in Zusammenhang mit dem Gesamtwert einer Site, Besuchen, Marketingeffektivität, Markenbewusstsein, SEO und Konversionen stehen. Kampagne-Diagramme vergleichen spezifische Werte, Besuche, Marketingeffektivität, SEO und Konversionen einer spezifischen Kampagne.
+Tipps
+Bewegen Sie die Maus über den Balken und die Linien in einem Dashboard, um Pop-up angezeigt zu bekommen, das eine detailliertere Aufgliederung des Werts pro Besuch und des Potentials, das aus Besuchen generiert wird, anzeigt.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 7
+
+Haupt 1
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174144:635657533044751591Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c4c16650-5160-47de-bba0-7b540219853b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180955:635657549952932604Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 4925de4f-407c-425a-bf14-2ea8f72e5f3b
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 9
+
+Main Page
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 647
+
+The Executive Insight Dashboard contains a selection of different charts that you can view to analyze your traffic and campaign data. The charts that are available can vary depending on which type of data you choose to view. Traffic charts display data related to a site’s overall value, visits, marketing efficiency, brand awareness, SEO, and conversions. Campaign charts compare specific campaign’s value, visits, marketing efficiency, SEO, and conversions.
+
+Tips
+Move the mouse over the bar and lines in a dashboards to display a pop-up that contains a more detailed breakdown of the value per visits and the potential generated from visits.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120513T192400
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4925de4f-407c-425a-bf14-2ea8f72e5f3b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120608T114405:634747526451075018
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 2dd2f780-e208-4eb2-b5f1-c0b4695dbbcd
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 7
+
+メイン ページ
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 131
+
+エクゼクティブ ダッシュボードにはさまざまなグラフが含まれ、トラフィック データおよびキャンペーン データの傾向を分析できます。
+マーケティング担当者は、Web サイトのトラフィックおよびマーケティング キャンペーンの有効性に関するデータを即座に把握できます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+メイン 1
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175047:635657538472910179Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2dd2f780-e208-4eb2-b5f1-c0b4695dbbcd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180608:635657547684776827Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,317 @@
+----item----
+version: 1
+id: {2E2492AE-4540-4AB3-AA18-D80A633152B3}
+database: core
+path: /sitecore/system/Settings/Help Texts/Executive Insight Dashboard/Value
+parent: {EA20C44A-AC61-44CD-9FE7-7B7AE132151A}
+name: Value
+master: {00000000-0000-0000-0000-000000000000}
+template: {11A111FF-4343-4AF8-91DC-3C49DBEDD9C6}
+templatekey: Help Text
+
+----field----
+field: {86238E01-03FA-4AC2-84AA-DD106281E85B}
+name: Key
+key: key
+content-length: 5
+
+Value
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+1
+----version----
+language: da
+version: 1
+revision: d9034e4d-539e-48a1-8ce4-53895273ff3b
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 5
+
+Værdi
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 839
+
+Dette lagkagediagram viser værdien genereret af besøg for alle trafiktyper eller kampagner.
+
+Brug dashboardet Værdi for at få en oversigt over værdien genereret af hver trafiktype eller kampagne.
+
+Når du klikker på et segment i lagkagediagrammet for en enkelt kampagne eller trafiktype, viser tendenstabellen den værdi, kampagnen eller trafiktypen har genereret som en procentdel af den samlede værdi genereret på hjemmesiden.
+
+Når kampagnedata er valgt, bliver alle de kampagner, der ikke er yderligere kategoriseret i kampagnekategorier, vist i gruppen "Kampagner i denne kategori".
+Når du vælger "Kampagner i denne kategori", vises rapporten Værdi ikke som et lagkagediagram, men som en meddelelse, der viser den samlede værdi af kampagnerne i denne gruppe. Du kan få vist de enkelte kampagner ved at vælge rapporten "Kampagner".
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+Værdi
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173015:635657526152817703Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+d9034e4d-539e-48a1-8ce4-53895273ff3b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180056:635657544562423138Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: c6f45cc4-faa1-470d-84de-9e83f0d4d50d
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 4
+
+Wert
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 1017
+
+Dieses Kreisdiagramm zeigt den durch Besuche generierten Wert für alle Traffic-Typen oder Kampagnen an.
+
+Benutzen Sie dieses Value Dashboard, um sich einen Überblick über den durch die einzelnen Traffic-Typen oder Kampagnen generierten Wert zu verschaffen.
+
+Wenn Sie auf ein Segment des Kreisdiagramms für eine einzelne Kampagne oder Traffic-Typen klicken, zeigt Ihnen die Entwicklungstabelle den Wert, den die Kampagne oder der Traffic-Typ generiert hat, als Prozentwert des insgesamt generierten Werts auf der Website.
+Wenn die Kampagnedaten ausgewählt werden, werden all solche Kampagnen, die nicht weiter in den Kampagnekategorien kategorisiert sind, in der Gruppe “Kampagnen in dieser Kategorie” angezeigt.
+Wenn Sie “Kampagnen in dieser Kategorie" auswählen, wird der Value Report nicht als Kreisdiagramm angezeigt. Stattdessen wird eine Nachricht, die den Gesamtwert der Kampagnen in dieser Gruppe beinhaltet angezeigt. Sie können die einzelnen Kampagnen ansehen, indem Sie den “Kampagne”-Report anwählen.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+Wert
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173852:635657531322391842Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c6f45cc4-faa1-470d-84de-9e83f0d4d50d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180844:635657549245576258Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: db38d773-4010-4bab-b859-5ad7d99d1329
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 5
+
+Value
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 840
+
+The pie chart displays the value generated by visits for all traffic types or campaigns.
+
+Use the Value dashboard to get an overview of the value generated by each traffic type or campaign.
+
+When you click a pie chart segment for a single campaign or traffic type, the trend table shows you the value that the campaign or traffic type has generated as a percentage of the total value generated on the website.
+
+When Campaign data is selected, all those campaigns which are not further categorized in Campaign Categories are shown in the “Campaigns in this category” group.
+When you select “Campaigns in this category” the Value report is not shown as a Pie chart, but instead a message displaying the total value of the campaigns in this group is shown. You can see the individual campaigns by selecting on the “Campaigns” report.
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120513T192500
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+db38d773-4010-4bab-b859-5ad7d99d1329
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120829T120645:634818388058710821
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: df57cf4d-4d51-4230-8c89-984a1c152b9c
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 4
+
+バリュー
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 359
+
+すべてのトラフィックの種類またはキャンペーンの訪問数別にもたらされたバリューを示す円グラフ。
+
+このダッシュボードを使用し、各トラフィックまたはキャンペーンによってもたらされたバリューの概要を把握することができます。
+
+円グラフの中で、単独のキャンペーンまたはトラフィックを表す部分をクリックすると、トレンドの表が開き、そのキャンペーンまたはトラフィックによってもたらされたバリューが、Web サイトにもたらした値の合計の割合として示されます。
+
+キャンペーン カテゴリを持たないキャンペーン データを選択した場合、円グラフとして表示されない代わりに、キャンペーンの合計バリューを表示するメッセージが表示されます。「キャンペーン」レポートを選択することによって、個別のキャンペーンを表示することができます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+バリュー
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174744:635657536644916252Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+df57cf4d-4d51-4230-8c89-984a1c152b9c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180458:635657546985397529Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,288 @@
+----item----
+version: 1
+id: {B6CD7D67-7FB0-49D2-9212-3E91FDEC1C2D}
+database: master
+path: /sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test
+parent: {B2FAFB1E-3E71-4086-9526-7CAD4C2C56A1}
+name: Is Mv Test
+master: {00000000-0000-0000-0000-000000000000}
+template: {349CDA24-CAB7-4991-BA2E-86116017995C}
+templatekey: Rule Container
+
+----version----
+language: da
+version: 1
+revision: 58220c6e-8ee3-429a-ad5f-85e084c74b5d
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 553
+
+<ruleset>
+  <rule uid="{AA830A4E-A24B-45C6-B3A8-B116F1CB758E}">
+    <conditions>
+      <condition id="{4C844D1B-CAA5-47E7-AD92-C6AEDF1ED9F8}" uid="22C24F0104DA42F7A739B92204AEF11B" />
+    </conditions>
+    <actions>
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="F2C73F01128D40D7B17D85F693E500D8" Rule="{96E0B460-00F0-4F19-B82A-28E55A2354BC}" />
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="6F446EAC0BC744BD93757F616495358B" Rule="{3504D727-2F31-4735-9686-63E86783C944}" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+Er mv-test
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173534:635657529348159618Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+58220c6e-8ee3-429a-ad5f-85e084c74b5d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180341:635657546210558154Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: e01f3233-69cb-4c9a-913c-6f9d4865db2f
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 553
+
+<ruleset>
+  <rule uid="{AA830A4E-A24B-45C6-B3A8-B116F1CB758E}">
+    <conditions>
+      <condition id="{4C844D1B-CAA5-47E7-AD92-C6AEDF1ED9F8}" uid="22C24F0104DA42F7A739B92204AEF11B" />
+    </conditions>
+    <actions>
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="F2C73F01128D40D7B17D85F693E500D8" Rule="{96E0B460-00F0-4F19-B82A-28E55A2354BC}" />
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="6F446EAC0BC744BD93757F616495358B" Rule="{3504D727-2F31-4735-9686-63E86783C944}" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 11
+
+Ist Mv Test
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174503:635657535034129803Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e01f3233-69cb-4c9a-913c-6f9d4865db2f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181113:635657550736215190Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 54a909c3-9cea-41d5-b5d6-becefaaa3dac
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 553
+
+<ruleset>
+  <rule uid="{AA830A4E-A24B-45C6-B3A8-B116F1CB758E}">
+    <conditions>
+      <condition id="{4C844D1B-CAA5-47E7-AD92-C6AEDF1ED9F8}" uid="22C24F0104DA42F7A739B92204AEF11B" />
+    </conditions>
+    <actions>
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="F2C73F01128D40D7B17D85F693E500D8" Rule="{96E0B460-00F0-4F19-B82A-28E55A2354BC}" />
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="6F446EAC0BC744BD93757F616495358B" Rule="{3504D727-2F31-4735-9686-63E86783C944}" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20140721T165217
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+54a909c3-9cea-41d5-b5d6-becefaaa3dac
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20140721T181734:635415634545670507
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 727599e5-32bf-43e0-b731-395e6e17ecc8
+
+----field----
+field: {48747FDE-21C1-44C8-9B40-EE2571F9F2F9}
+name: Rule
+key: rule
+content-length: 553
+
+<ruleset>
+  <rule uid="{AA830A4E-A24B-45C6-B3A8-B116F1CB758E}">
+    <conditions>
+      <condition id="{4C844D1B-CAA5-47E7-AD92-C6AEDF1ED9F8}" uid="22C24F0104DA42F7A739B92204AEF11B" />
+    </conditions>
+    <actions>
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="F2C73F01128D40D7B17D85F693E500D8" Rule="{96E0B460-00F0-4F19-B82A-28E55A2354BC}" />
+      <action id="{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}" uid="6F446EAC0BC744BD93757F616495358B" Rule="{3504D727-2F31-4735-9686-63E86783C944}" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+MV テスト
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175353:635657540338539820Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+727599e5-32bf-43e0-b731-395e6e17ecc8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180727:635657548479469154Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

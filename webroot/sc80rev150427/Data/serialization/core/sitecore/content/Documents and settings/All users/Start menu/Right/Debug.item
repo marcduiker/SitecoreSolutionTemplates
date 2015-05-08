@@ -1,0 +1,318 @@
+----item----
+version: 1
+id: {A59021CB-BE4D-4157-99AF-AF6C2636ECFE}
+database: core
+path: /sitecore/content/Documents and settings/All users/Start menu/Right/Debug
+parent: {10148DC7-DCA6-4ACA-AC90-46FBF59A1D1F}
+name: Debug
+master: {A28303B4-F2D5-42E6-A3C6-79F1D06F40D4}
+template: {F58958D2-555B-4F56-946C-589E8866880C}
+templatekey: Start menu action
+
+----field----
+field: {9EFED9BB-2EC8-498A-91B9-655091224E4D}
+name: Icon
+key: icon
+content-length: 20
+
+Apps/48x48/Codes.png
+----field----
+field: {6BA1018F-9794-4798-963E-601D413B9CA3}
+name: Message
+key: message
+content-length: 12
+
+system:debug
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 20
+
+Apps/48x48/Codes.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+37
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 85
+
+ar|sitecore\Sitecore Client Developing|pe|+item:read|pd|+item:read|a?|Everyone|p*|!*|
+----version----
+language: da
+version: 1
+revision: 74660c51-be25-4cc8-9ea7-2a96b397bb7b
+
+----field----
+field: {326CD362-CB1C-4E81-B5F2-5EFA940351F7}
+name: Display name
+key: display name
+content-length: 5
+
+Debug
+----field----
+field: {E7D3348B-8323-42BA-BC9C-48E1F4E994DC}
+name: Tool tip
+key: tool tip
+content-length: 12
+
+Åbn debugger
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+Debug
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173149:635657527098294248Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+74660c51-be25-4cc8-9ea7-2a96b397bb7b
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180143:635657545033994330Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: b589a6d1-31d9-45c2-8531-81f355c8d2ad
+
+----field----
+field: {326CD362-CB1C-4E81-B5F2-5EFA940351F7}
+name: Display name
+key: display name
+content-length: 5
+
+Debug
+----field----
+field: {E7D3348B-8323-42BA-BC9C-48E1F4E994DC}
+name: Tool tip
+key: tool tip
+content-length: 19
+
+Den Debugger öffnen
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+Debug
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174053:635657532538182921Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b589a6d1-31d9-45c2-8531-81f355c8d2ad
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180934:635657549747927356Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 47005a48-6440-452d-92bb-ef7ab498b4ca
+
+----field----
+field: {326CD362-CB1C-4E81-B5F2-5EFA940351F7}
+name: Display name
+key: display name
+content-length: 5
+
+Debug
+----field----
+field: {E7D3348B-8323-42BA-BC9C-48E1F4E994DC}
+name: Tool tip
+key: tool tip
+content-length: 18
+
+Open the Debugger.
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 16
+
+20060322T084647Z
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20060322T084647Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+47005a48-6440-452d-92bb-ef7ab498b4ca
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20141029T135248:635501875687836415Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 4a03d740-1ee4-4e2d-8a0a-26b8b2baf8f9
+
+----field----
+field: {326CD362-CB1C-4E81-B5F2-5EFA940351F7}
+name: Display name
+key: display name
+content-length: 4
+
+デバッグ
+----field----
+field: {E7D3348B-8323-42BA-BC9C-48E1F4E994DC}
+name: Tool tip
+key: tool tip
+content-length: 8
+
+デバッガーを起動
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+デバッグ
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174955:635657537957432258Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4a03d740-1ee4-4e2d-8a0a-26b8b2baf8f9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180548:635657547488214434Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

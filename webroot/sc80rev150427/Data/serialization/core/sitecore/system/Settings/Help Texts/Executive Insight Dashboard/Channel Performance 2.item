@@ -1,0 +1,349 @@
+----item----
+version: 1
+id: {CB6CBDF5-169A-4DCD-8B2F-94614F333097}
+database: core
+path: /sitecore/system/Settings/Help Texts/Executive Insight Dashboard/Channel Performance 2
+parent: {EA20C44A-AC61-44CD-9FE7-7B7AE132151A}
+name: Channel Performance 2
+master: {00000000-0000-0000-0000-000000000000}
+template: {11A111FF-4343-4AF8-91DC-3C49DBEDD9C6}
+templatekey: Help Text
+
+----field----
+field: {86238E01-03FA-4AC2-84AA-DD106281E85B}
+name: Key
+key: key
+content-length: 18
+
+ChannelPerformance
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+1
+----version----
+language: da
+version: 1
+revision: 43dd8333-b5bf-4628-9f98-972f2735b62e
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 19
+
+Kanaleffektivitet 2
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 21
+
+Kampagne Effektivitet
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 736
+
+Diagrammet viser den samlede værdi genereret af alle besøg over det valgte tidsinterval, grupperet efter kampagne kategorier.
+ 
+Du kan sortere diagrammet efter besøg eller værdi.
+ 
+Brug Kampagne Effektivitets Dashboardet for at få et overblik over værdi eller besøg genereret af hver kampagne-kategori over tid.
+ 
+Når Kampagne data er valgt, er alle de kampagner, som ikke er yderligere kategoriseret i Kampagne Kategorier vist i "Kampagner i denne kategori" gruppen.
+ 
+Når du vælger "Kampagner i denne kategori" er effektivitets rapporten ikke vist som et diagram, men i stedet vises en meddelelse med den samlede værdi (eller antal besøg) af kampagnerne i denne gruppe. Du kan se de enkelte kampagner ved at vælge "Kampagner".
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 19
+
+Kanaleffektivitet 2
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173222:635657527429862848Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+43dd8333-b5bf-4628-9f98-972f2735b62e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180200:635657545202585368Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 30ab37d1-3807-4cda-84d9-5ffe5f271613
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 15
+
+Kanalleistung 2
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 20
+
+Kampagne Performance
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 872
+
+Das Diagramm zeigt den Gesamtwert, der durch alle Besuche in der ausgewählten Zeitspanne,  gruppiert nach Kampagnekategorien. 
+ Sie können das Diagramm nach Besuchen oder Wert ordnen.
+ 
+Benutzen Sie das Channel Performance Dashboard, um sich einen Überblick über den Wert oder die Besuche zu verschaffen, die im Laufe der Zeit durch die einzelnen Kampagnekategorien generiert wurden.
+ 
+Wenn Kampagnedaten ausgewählt werden, werden all jene Kampagnen, die nicht weiter in den Kampagnekategorien kategorisiert werden in der Gruppe “Kampagnen in dieser Kategorie” angezeigt. 
+ 
+Wenn Sie “Kampagnen in dieser Kategorie” auswählen, wird der Performance-Bericht nicht als Diagramm angezeigt, sondern eine Nachricht, die den Gesamtwert (oder Besuche) der Kampagnen in dieser Gruppe. Sie können die einzelnen Kampagnen ansehen, indem Sie  den “Kampagnen” Bericht auswählen.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+Kanalleistung 2
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174136:635657532965532857Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+30ab37d1-3807-4cda-84d9-5ffe5f271613
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180952:635657549923556852Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 96a02a38-6375-410a-9436-490149181476
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 0
+
+
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 20
+
+Campaign Performance
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 742
+
+The chart displays the total value generated by all visits over the selected time range, grouped by campaign categories.
+ 
+You can order the chart by visits or value.
+ 
+Use the Campaign Performance dashboard to get an overview of the value or the visits generated by each campaign category over time.
+ 
+When Campaign data is selected, all those campaigns which are not further categorized in Campaign Categories are shown in the “Campaigns in this category” group.
+ 
+When you select “Campaigns in this category” the Performance report is not shown as a chart, but instead a message displaying the total value (or visits)of the campaigns in this group is shown. You can see the individual campaigns by selecting the “Campaigns” report.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120513T192500
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+96a02a38-6375-410a-9436-490149181476
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20121207T095256:634904707765425500
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: a32dff6e-600b-4ca1-aa7c-ad78ccccb1be
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 14
+
+チャネル パフォーマンス 2
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 14
+
+キャンペーン パフォーマンス
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 346
+
+このチャートは選択した時間範囲の合計バリューをキャンペーン カテゴリーごとに表示します。
+
+訪問数またはバリューで並び順を変更することが出来ます。
+
+キャンペーン パフォーマンス ダッシュボードによりキャンペーン カテゴリー別のバリューまたは訪問数のオーバービューを把握することが出来ます。
+
+キャンペーン カテゴリーに分類されないキャンペーン データを選択した場合、「このカテゴリーのキャンペーン」グループに表示されます。
+
+「このカテゴリーのキャンペーン」を選択した場合、パフォーマンス レポートのグラフは表示されませんが、代わりにキャンペーンの合計バリュー （または訪問数） が表示されます。「キャンペーン」 レポートを選択して、個別のキャンペーンを見ることができます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 14
+
+チャネル パフォーマンス 2
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175040:635657538400097759Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a32dff6e-600b-4ca1-aa7c-ad78ccccb1be
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180605:635657547657120400Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

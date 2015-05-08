@@ -1,0 +1,290 @@
+----item----
+version: 1
+id: {F3593286-ADBC-47BF-9C6C-B7FF213A7A8C}
+database: core
+path: /sitecore/content/Applications/Content Editor/Ribbons/Chunks/Item Buckets - Bucketable/Template
+parent: {5EB9993C-4B6B-4658-8C9B-9900BC0CDB78}
+name: Template
+master: {00000000-0000-0000-0000-000000000000}
+template: {ABC069D5-3627-4A20-841E-D199B0EB4957}
+templatekey: Small Check Button
+
+----field----
+field: {FA8FFAB1-6269-480D-B746-F6BED5A178A2}
+name: Click
+key: click
+content-length: 19
+
+template:bucketable
+----field----
+field: {CC65212F-C5F2-437A-965E-7F0690A82F21}
+name: ID
+key: id
+content-length: 18
+
+TemplateBucketable
+----version----
+language: da
+version: 1
+revision: 8f2325cf-7dee-4075-b6e9-e3797a4f7de3
+
+----field----
+field: {C7A8B822-2B9D-4E1D-9E5F-82326FCBBFC1}
+name: Header
+key: header
+content-length: 15
+
+Standardværdier
+----field----
+field: {455D570D-77B9-4AA6-B84E-D7DCAB7079C0}
+name: Tooltip
+key: tooltip
+content-length: 135
+
+Tillad, at alle elementer, der er baseret på skabelonen for det aktuelle element, gemmes som et ustruktureret element i en item bucket.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Skabelon
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173253:635657527737829469Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8f2325cf-7dee-4075-b6e9-e3797a4f7de3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180216:635657545365864226Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: aa3cc152-4ca4-4891-9cd9-323f2d8fb99d
+
+----field----
+field: {C7A8B822-2B9D-4E1D-9E5F-82326FCBBFC1}
+name: Header
+key: header
+content-length: 13
+
+Standardwerte
+----field----
+field: {455D570D-77B9-4AA6-B84E-D7DCAB7079C0}
+name: Tooltip
+key: tooltip
+content-length: 148
+
+Stimmen Sie zu, dass alle Items, die auf dem Template des aktuellen Items basieren als unstrukturiertes Item in einem Itembucket gespeichert werden.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Template
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174223:635657533434125419Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+aa3cc152-4ca4-4891-9cd9-323f2d8fb99d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181009:635657550093089018Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: dc23b006-7f33-46d1-8a3d-e74b837babe5
+
+----field----
+field: {C7A8B822-2B9D-4E1D-9E5F-82326FCBBFC1}
+name: Header
+key: header
+content-length: 15
+
+Standard values
+----field----
+field: {455D570D-77B9-4AA6-B84E-D7DCAB7079C0}
+name: Tooltip
+key: tooltip
+content-length: 109
+
+Allow every item based on the current item's template to be stored as an unstructured item in an item bucket.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130601T085800
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dc23b006-7f33-46d1-8a3d-e74b837babe5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20141106T135220:635508787405627483Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: ff5505cd-c2bf-4d2f-bddd-31af1dabb5f9
+
+----field----
+field: {C7A8B822-2B9D-4E1D-9E5F-82326FCBBFC1}
+name: Header
+key: header
+content-length: 11
+
+スタンダード バリュー
+----field----
+field: {455D570D-77B9-4AA6-B84E-D7DCAB7079C0}
+name: Tooltip
+key: tooltip
+content-length: 55
+
+現在のアイテムのテンプレートに基づくすべてのアイテムを、非構造アイテムとしてアイテム バケットに保存可能にする
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+テンプレート
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175124:635657538845717615Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ff5505cd-c2bf-4d2f-bddd-31af1dabb5f9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180622:635657547826967304Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

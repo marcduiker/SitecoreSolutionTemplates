@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {A9711DE1-7B29-4CB3-987A-BC975C52D226}
+database: master
+path: /sitecore/templates/App Center Sync/Head Placeholder/Head Placeholder Setting/__Standard Values
+parent: {E0D4E9BC-6B61-4DE9-8695-E7CF4E01A834}
+name: __Standard Values
+master: {00000000-0000-0000-0000-000000000000}
+template: {E0D4E9BC-6B61-4DE9-8695-E7CF4E01A834}
+templatekey: Head Placeholder Setting
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 38
+
+{90FA1879-A5EC-4E2A-B033-BFDD38E630F5}
+----version----
+language: en
+version: 1
+revision: 39ec06d8-94e5-4867-ac69-9f357d621c0f
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120907T100200
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+39ec06d8-94e5-4867-ac69-9f357d621c0f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120907T100316:634826089961440721
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 12
+
+sitecore\mhs

@@ -1,0 +1,291 @@
+----item----
+version: 1
+id: {34E0641E-5A46-46F1-B0EF-8B0D16FD0D43}
+database: master
+path: /sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - Linkedin
+parent: {F201003B-514B-4A86-8C56-48B39DE53306}
+name: Paid search - Linkedin
+master: {00000000-0000-0000-0000-000000000000}
+template: {07003270-D56D-42C2-90E1-99125E0ED1AF}
+templatekey: Filter
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+400
+----version----
+language: da
+version: 1
+revision: e4da9d6a-3315-4a64-b9ab-2a1f0d7636af
+
+----field----
+field: {1E72123A-F0FC-48EF-AE9F-78872597CEBF}
+name: Rule
+key: rule
+content-length: 411
+
+<ruleset>
+  <rule uid="{BAC375EF-05F9-473A-BAFC-B4BE551C4B6B}">
+    <conditions>
+      <condition id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}" uid="0234259827B845F5BB2E8DB3FDCA664F" ChannelId="{145304B1-C2E0-4B88-A200-D5AA18206CF7}" />
+    </conditions>
+    <actions>
+      <action id="{E7AD708C-9943-4173-9055-ED9B078932B2}" uid="26BF7605B75A4EAE8F8CED9B6C27168C" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 25
+
+Betalt søgning – LinkedIn
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173442:635657528829240932Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e4da9d6a-3315-4a64-b9ab-2a1f0d7636af
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180315:635657545959308298Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 43db9a06-a355-40f0-b4f2-1f2f21474379
+
+----field----
+field: {1E72123A-F0FC-48EF-AE9F-78872597CEBF}
+name: Rule
+key: rule
+content-length: 411
+
+<ruleset>
+  <rule uid="{BAC375EF-05F9-473A-BAFC-B4BE551C4B6B}">
+    <conditions>
+      <condition id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}" uid="0234259827B845F5BB2E8DB3FDCA664F" ChannelId="{145304B1-C2E0-4B88-A200-D5AA18206CF7}" />
+    </conditions>
+    <actions>
+      <action id="{E7AD708C-9943-4173-9055-ED9B078932B2}" uid="26BF7605B75A4EAE8F8CED9B6C27168C" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 25
+
+Bezahlte Suche - Linkedin
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174354:635657534343351337Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+43db9a06-a355-40f0-b4f2-1f2f21474379
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181051:635657550512155798Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 5587e380-001c-44e3-8a57-00d6f5b626aa
+
+----field----
+field: {1E72123A-F0FC-48EF-AE9F-78872597CEBF}
+name: Rule
+key: rule
+content-length: 411
+
+<ruleset>
+  <rule uid="{BAC375EF-05F9-473A-BAFC-B4BE551C4B6B}">
+    <conditions>
+      <condition id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}" uid="0234259827B845F5BB2E8DB3FDCA664F" ChannelId="{145304B1-C2E0-4B88-A200-D5AA18206CF7}" />
+    </conditions>
+    <actions>
+      <action id="{E7AD708C-9943-4173-9055-ED9B078932B2}" uid="26BF7605B75A4EAE8F8CED9B6C27168C" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20141007T102748Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5587e380-001c-44e3-8a57-00d6f5b626aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20141127T103119:635526810797667374Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 3baa9c69-a66f-4e0c-a5b2-1d54cf08a1e5
+
+----field----
+field: {1E72123A-F0FC-48EF-AE9F-78872597CEBF}
+name: Rule
+key: rule
+content-length: 411
+
+<ruleset>
+  <rule uid="{BAC375EF-05F9-473A-BAFC-B4BE551C4B6B}">
+    <conditions>
+      <condition id="{2F421912-F1B3-49D8-82B8-50A64C80E4E3}" uid="0234259827B845F5BB2E8DB3FDCA664F" ChannelId="{145304B1-C2E0-4B88-A200-D5AA18206CF7}" />
+    </conditions>
+    <actions>
+      <action id="{E7AD708C-9943-4173-9055-ED9B078932B2}" uid="26BF7605B75A4EAE8F8CED9B6C27168C" />
+    </actions>
+  </rule>
+</ruleset>
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+有料検索 - Linkedin
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175248:635657539681661557Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3baa9c69-a66f-4e0c-a5b2-1d54cf08a1e5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180704:635657548245097885Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

@@ -1,0 +1,475 @@
+----item----
+version: 1
+id: {6025BD52-A86C-4C0D-8728-9834240C9E20}
+database: core
+path: /sitecore/system/Settings/Help Texts/Executive Insight Dashboard/Main 4
+parent: {EA20C44A-AC61-44CD-9FE7-7B7AE132151A}
+name: Main 4
+master: {00000000-0000-0000-0000-000000000000}
+template: {11A111FF-4343-4AF8-91DC-3C49DBEDD9C6}
+templatekey: Help Text
+
+----field----
+field: {86238E01-03FA-4AC2-84AA-DD106281E85B}
+name: Key
+key: key
+content-length: 4
+
+Main
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+4
+----version----
+language: da
+version: 1
+revision: 4a63e163-f447-4868-92dd-c2f657e75183
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 12
+
+Overordnet 4
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 11
+
+Trafiktyper
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 1815
+
+Trafiktyper er markedsføringskanaler. Større trafiktyper bliver defineret automatisk. Undertyper som f.eks. små sociale kanaler kan tilknyttes en eksisterende trafiktype. 
+
+
+Direkte	
+ Et besøg på din hjemmeside, der skyldes, at en besøgende indtaster en bestemt url-adresse i adressebjælken i en webbrowser. 
+
+E-mail	
+ Et besøg på din hjemmeside, der skyldes et link i en e-mailkampagne.  
+
+Søgemaskine – organisk	
+Et besøg på din hjemmeside, der skyldes, at en besøgende indtaster et ikke-mærkespecifikt søgeord i en søgemaskine. 
+
+Søgemaskine – branded
+Et besøg på din hjemmeside, der skyldes, at en besøgende indtaster et ikke-mærkespecifikt søgeord i en søgemaskine. 
+Du kan konfigurere lige så mange søgeord med brandnavnet, som du ønsker. 
+
+Betalt
+Et besøg på din hjemmeside, der skyldes, at en besøgende klikker på et sponseret link som f.eks. en online Google reklamekampagne.
+
+Henvist – analytiker
+Et besøg på din hjemmeside, der skyldes et link på en analytikerhjemmeside som f.eks. Forrester eller Gartner.
+
+Henvist – blog	
+ Et besøg på din hjemmeside, der skyldes et link på en bloghjemmeside.
+
+Henvist – community
+ Et besøg på din hjemmeside, der skyldes en social netværkshjemmeside som f.eks. Facebook eller Twitter.
+
+Henvist – samtaler
+ Et besøg på din hjemmeside, der skyldes et link i et chatprogram, f.eks. MSN Messenger.
+
+Henvist – nyheder	
+Et besøg på din hjemmeside, der skyldes et link på en nyheds- eller mediehjemmeside.
+
+Henvist – andet
+ Alle henviste besøg på din hjemmeside placeres i denne kategori, indtil en marketingmedarbejder kategoriserer dem i en af de andre kategorier.
+
+Henvist – Wiki	
+Et besøg på din hjemmeside, der skyldes et link på en nyheds- eller mediehjemmeside.
+
+RSS	
+Et besøg, der stammer fra en RSS-kampagne, du har oprettet.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Overordnet 4
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173056:635657526564226960Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4a63e163-f447-4868-92dd-c2f657e75183
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180117:635657544772896677Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 4f6fc1c2-cc3c-4bdf-88fc-af775bc57e0f
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 7
+
+Haupt 4
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 13
+
+Traffic-Typen
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 2129
+
+Traffic-Typen sind Marketingkanäle. Bedeutende Traffic-Typen werden automatisch definiert. Untertypen, wie kleine Social Channels, können an einen existierenden Traffic-Typen angehängt werden. 
+
+
+Direkt 
+Ein Besuch auf Ihrer Website,  der dadurch zustande kommt, dass ein Besucher eine spezifische URL in die Adresszeile eines Web-Browsers eingibt.  
+
+E-Mail 
+Ein Besuch auf Ihrer Website, der durch einen in einer E-Mail-Kampagne enthaltenen Link zustande kommt. 
+
+Suchmaschine - Organisch  
+Ein Besuch auf Ihrer Website, der dadurch zustande kommt, dass ein Besucher einen nicht-markenspezifischen Suchbegriff in eine Suchmaschine eingibt. 
+
+Suchmaschine - Branded
+Ein Besuch auf Ihrer Website, der dadurch zustande kommt, dass ein Besucher einen spezifischen Markennamen in eine Suchmaschine eingibt. 
+Sie können so viele Markennamen-Keywords konfigurieren wie Sie möchten. 
+
+Bezahlt
+Ein Besuch auf Ihrer Website, der dadurch zustande kommt, dass ein Besucher auf einen gesponserten Link klickt, wie z.B. eine Online Google Ad Kampagne.
+
+Verwiesen – Analyse
+Ein Besuch auf Ihrer Website, der durch einen Link auf einer  Analyse-Website zustande kommt, wie z.B. Forrester der Gartner.
+
+Verwiesen – Blog 
+Ein Besuch auf Ihrer Website, der durch einen Link auf einer Blog-Website zustande kommt. 
+
+Verwiesen – Community
+Ein Besuch auf Ihrer Website, der auf eine Social Networking Site, wie z.B.  Facebook oder Twitter, zurück geht. 
+
+Verwiesen – Konversionen
+Ein Besuch auf Ihrer Website, der aus einem Link in einem Chat oder Instant Messaging Programm hervorgeht, wie z.B. MSN Messenger.
+
+Verwiesen – News 
+Ein Besuch auf Ihrer Website, der das Resultat eines Links auf einer News- oder Medien Website ist. 
+
+Verwiesen – Other
+Alle verwiesenen Besuche auf Ihrer Website werden in dieser Kategorie eingestellt, bis ein Marketer diese in eine der anderen Kategorien einordnet.
+
+Verwiesen – Wiki 
+Ein Besuch auf Ihrer Website, der das Resultat eines Links auf einer News- oder Medien Website ist. 
+
+
+RSS 
+Ein Besuch, der auf eine RSS-Kampagne, die Sie erstellt haben, zurückzuführen ist.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 7
+
+Haupt 4
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173943:635657531833952794Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4f6fc1c2-cc3c-4bdf-88fc-af775bc57e0f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180905:635657549458702622Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 57411195-9542-4740-a53b-eec82077f065
+
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 13
+
+Traffic Types
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 1800
+
+Traffic types are marketing channels. Major traffic types are automatically defined. Sub-types, such as small social channel, can be attached to an existing traffic type. 
+
+
+Direct	
+A visit to your website that originates from a visitor entering a specific URL in the address bar of a web browser. 
+
+Email	
+A visit to your website that originates from a link contained in an email campaign.  
+
+Search Engine - Organic	
+A visit to your website that originates from a visitor entering a non-brand specific search term in a search engine. 
+
+Search Engine - Branded
+A visit to your website that originates from a visitor entering a specific brand name in a search engine. 
+You may configure as many brand name key words as you like. 
+
+Paid
+A visit to your website that originates from a visitor clicking on a sponsored link, such as a online Google Ad campaign.
+
+Referred – Analyst
+A visit to your website that originates from a link on an analyst website, such as Forrester or Gartner.
+
+Referred – Blog	
+A visit to your website that originates from a link on a blog website.
+
+Referred – Community
+A visit to your website that originates from a social networking site, such as Facebook or Twitter.
+
+Referred – Conversations
+A visit to your website that originates from a link in a chat or instant messaging program, such as MSN Messenger.
+
+Referred – News	
+A visit to your website that originates from a link on a news or media website.
+
+Referred – Other
+All the referred visits to your website are placed in this category until a marketer categorizes them in one of the other categories..
+
+Referred – Wiki	
+A visit to your website that originates from a link on a news or media website.
+
+RSS	
+A visit that originates from an RSS campaign that you have created.
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120513T192400
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+57411195-9542-4740-a53b-eec82077f065
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120608T114850:634747529309012020
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: a8dc2cca-c90e-41e0-a48a-cf63486d14e6
+
+----field----
+field: {18D518F5-4B35-4BC8-9700-741C26AE76B7}
+name: Title
+key: title
+content-length: 5
+
+メイン 4
+----field----
+field: {FFF72FE1-626A-4D01-AAB6-F157BC97B4AF}
+name: Header
+key: header
+content-length: 9
+
+トラフィックの種類
+----field----
+field: {2411011D-885F-4561-BA09-C08E467B7996}
+name: Body
+key: body
+content-length: 1355
+
+トラフィックの種類はマーケティング チャネルです。分類することにより、Web サイトを訪問するトラフィックを効果的に分析し、将来のマーケティングに関して正しい意思決定を行うために必要な情報が得られます。たとえば、SEOマーケティング担当者は、検索キーワードを最適化するときに、この情報が役立つことが分かります。
+
+直接訪問：
+訪問者が Web ブラウザーのアドレス バーに URL を入力することで開始される Web サイトの訪問。たとえば、「http://www.sitecore.net」 を入力して Sitecore のホーム ページを直接訪問するものです。
+
+電子メール：
+自社の 電子メール キャンペーンに含まれるリンクから開始される Web サイトの訪問。
+
+検索エンジン – オーガニック検索：
+訪問者が検索エンジンにブランド名を含まない特定の検索語を入力することから開始される Web サイトの訪問。たとえば、「Best CMS」または「Top CMS software」と入力し、検索結果ページに表示されたいずれかの無報酬リンクをクリックすることで、www.sitecore.net を訪問するものです。
+
+検索エンジン – ブランド指定検索：
+訪問者が検索エンジンに特定のブランド名を入力することから開始される Web サイトの訪問。たとえば、「Sitecore」または「Sitecore CMS」と入力し、検索結果ページに表示されたいずれかの無報酬リンクをクリックすることで、www.sitecore.net を訪問するものです。ブランド名のキーワードは、必要な数だけ設定できます。
+
+有料：
+訪問者がスポンサー リンクをクリックすることで開始される Web サイトの訪問。たとえば、オンラインの Google Ad キャンペーンやバナー広告など、自社キャンペーンの有料リンクがあります。
+
+参照元 – アナリスト：
+Forrester や Gartner など、アナリストの Web サイトにあるリンクから開始されるWeb サイトの訪問。
+
+参照元 – ブログ：
+ブログの Web サイトにあるリンクから開始される Web サイトの訪問。
+
+参照元 – ソーシャル：
+Facebook や Twitter など、ソーシャル ネットワーキング サイトから開始される Web サイトの訪問。
+
+参照元 – IM/チャット：
+MSN Messenger のようなチャットやインスタント メッセージング プログラムで示されたリンクから開始される Web サイトの訪問。
+
+参照元 – ニュース：
+ニュースやメディアの Web サイトにあるリンクから開始される Web サイトの訪問。
+
+参照元 – その他：
+他のサイトから参照して Web サイトに訪問したものは、マーケティング担当者が他のカテゴリに分類するまでこのカテゴリに入れられます。
+
+参照元 – Wiki：
+Wiki の Web サイトにあるリンクから開始される Web サイトの訪問。
+
+RSS：
+自社で作成した RSS キャンペーンから開始される訪問。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+メイン 4
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174839:635657537195544190Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a8dc2cca-c90e-41e0-a48a-cf63486d14e6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180519:635657547196648430Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

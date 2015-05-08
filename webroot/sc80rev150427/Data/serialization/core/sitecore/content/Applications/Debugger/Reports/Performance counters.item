@@ -1,0 +1,269 @@
+----item----
+version: 1
+id: {183C7ACA-6922-48D2-B532-FC71ACE5DACE}
+database: core
+path: /sitecore/content/Applications/Debugger/Reports/Performance counters
+parent: {350BB5C6-9D0F-4A33-8B22-5E3E0648C9AB}
+name: Performance counters
+master: {B126D93B-5BB2-4E8B-81DC-5DBFB7F648D2}
+template: {2BEB0E4F-F9AA-4FAC-BA9F-81A331C03522}
+templatekey: Reporter report
+
+----field----
+field: {E5C086FD-BE03-45A4-9B0F-142D2E1DA7F5}
+name: Formatter parameters
+key: formatter parameters
+content-length: 54
+
+xsl=/sitecore/shell/applications/Debugger/Counter.xslt
+----field----
+field: {20856335-8EC3-4EF9-BF40-E1E4CA578F12}
+name: Formatter type
+key: formatter type
+content-length: 63
+
+Sitecore.Web.UI.HtmlControls.ReportXslFormatter,Sitecore.Kernel
+----field----
+field: {BFDE627B-8859-4A89-A4E3-236C421BEE98}
+name: Icon
+key: icon
+content-length: 29
+
+Business/24x24/line-chart.png
+----field----
+field: {E96C1313-2D1F-4022-BE9D-F3576FE44FC6}
+name: Source parameters
+key: source parameters
+content-length: 13
+
+file=$COUNTER
+----field----
+field: {607401A9-E8BA-4A14-9BE6-FDE7F076D021}
+name: Source type
+key: source type
+content-length: 61
+
+Sitecore.Web.UI.HtmlControls.ReportFileSource,Sitecore.Kernel
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 29
+
+Business/24x24/line-chart.png
+----version----
+language: da
+version: 1
+revision: 88df22df-18b6-40db-88a3-2f9ae8a08ea8
+
+----field----
+field: {1595BDF2-1007-4F6A-80F5-F45DBE79E0F3}
+name: Title
+key: title
+content-length: 18
+
+Performancetællere
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 18
+
+Performancetællere
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T172958:635657525982658186Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+88df22df-18b6-40db-88a3-2f9ae8a08ea8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180047:635657544475233968Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 734981de-007e-4ae4-bece-4a3b5d588e9d
+
+----field----
+field: {1595BDF2-1007-4F6A-80F5-F45DBE79E0F3}
+name: Title
+key: title
+content-length: 15
+
+Leistung Zähler
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+Leistung Zähler
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173830:635657531100516318Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+734981de-007e-4ae4-bece-4a3b5d588e9d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180836:635657549164013236Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 4137F048-334A-492E-9645-8636B46B3118
+
+----field----
+field: {1595BDF2-1007-4F6A-80F5-F45DBE79E0F3}
+name: Title
+key: title
+content-length: 20
+
+Performance Counters
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4137F048-334A-492E-9645-8636B46B3118
+----version----
+language: ja-JP
+version: 1
+revision: 8c4c3089-0e35-4f63-9ff0-fb4b28867990
+
+----field----
+field: {1595BDF2-1007-4F6A-80F5-F45DBE79E0F3}
+name: Title
+key: title
+content-length: 13
+
+パフォーマンス カウンター
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 13
+
+パフォーマンス カウンター
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174720:635657536405224150Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8c4c3089-0e35-4f63-9ff0-fb4b28867990
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180449:635657546894459975Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

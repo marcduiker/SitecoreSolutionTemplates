@@ -1,0 +1,290 @@
+----item----
+version: 1
+id: {E5563CE1-2F76-410F-81F7-1BA58C6FFF75}
+database: core
+path: /sitecore/content/Documents and settings/All users/Start menu/Right/Reporting Tools
+parent: {10148DC7-DCA6-4ACA-AC90-46FBF59A1D1F}
+name: Reporting Tools
+master: {EF83F2F7-9CD0-474C-924D-BAFCAFB681F2}
+template: {579BAD93-BFEF-43E0-9A2E-C3FF30B87987}
+templatekey: Start menu folder
+
+----field----
+field: {092E08F3-8863-40B1-A17C-EF10351AA4F6}
+name: Icon
+key: icon
+content-length: 22
+
+Apps/48x48/Scripts.png
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 22
+
+Apps/48x48/Scripts.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 4
+
+1700
+----field----
+field: {56776EDF-261C-4ABC-9FE7-70C618795239}
+name: __Help link
+key: __help link
+content-length: 0
+
+
+----field----
+field: {1172F251-DAD4-4EFB-A329-0C63500E4F1E}
+name: __Masters
+key: __masters
+content-length: 155
+
+{EF83F2F7-9CD0-474C-924D-BAFCAFB681F2}|{5E8CFCF9-CEF2-4BDB-9E35-219C50184066}|{A28303B4-F2D5-42E6-A3C6-79F1D06F40D4}|{054EDD60-23A2-411C-82A1-D2451AEF6A94}
+----field----
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 62
+
+ar|sitecore\Sitecore Client Users|pd|-item:read|pe|+item:read|
+----version----
+language: da
+version: 1
+revision: 4d77495c-4b87-453b-9674-2de0dc0b78f4
+
+----field----
+field: {B27C8AC7-1044-4911-BFB3-F38A9703B93F}
+name: Display name
+key: display name
+content-length: 22
+
+Rapporteringsværktøjer
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 22
+
+Rapporteringsværktøjer
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173243:635657527635643475Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4d77495c-4b87-453b-9674-2de0dc0b78f4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180211:635657545310082616Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: ec9dd10c-34d3-439f-8fd1-af47382fc5a1
+
+----field----
+field: {B27C8AC7-1044-4911-BFB3-F38A9703B93F}
+name: Display name
+key: display name
+content-length: 15
+
+Reporting Tools
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+Reporting Tools
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174206:635657533266781334Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ec9dd10c-34d3-439f-8fd1-af47382fc5a1
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181003:635657550031526518Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 5264eb01-6ab0-4e4d-9585-a140d2b94ede
+
+----field----
+field: {B27C8AC7-1044-4911-BFB3-F38A9703B93F}
+name: Display name
+key: display name
+content-length: 15
+
+Reporting Tools
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20140902T082411Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5264eb01-6ab0-4e4d-9585-a140d2b94ede
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20140902T082419:635452430596178301Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: dd99f5a2-479c-4afa-8c9a-be773da7aa04
+
+----field----
+field: {B27C8AC7-1044-4911-BFB3-F38A9703B93F}
+name: Display name
+key: display name
+content-length: 8
+
+レポート ツール
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+レポート ツール
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175108:635657538687749322Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dd99f5a2-479c-4afa-8c9a-be773da7aa04
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180616:635657547768840816Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

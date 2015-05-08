@@ -1,0 +1,262 @@
+----item----
+version: 1
+id: {54ED4765-A768-4A1E-AFE9-B386D5A55E42}
+database: master
+path: /sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/PageEvents
+parent: {B575090A-38DB-4D7D-BDE5-E2B3D317E6AB}
+name: PageEvents
+master: {00000000-0000-0000-0000-000000000000}
+template: {E360BED5-B72B-4C02-890F-E434486DE3F1}
+templatekey: Control
+
+----field----
+field: {AD8D5F6D-D0A3-4F86-A4E7-C29FF7427597}
+name: Path
+key: path
+content-length: 0
+
+
+----field----
+field: {64461E27-1C6A-4AA2-BDA8-44E5316EF09E}
+name: Method
+key: method
+content-length: 34
+
+GetViewerOnsiteBehaviourPageEvents
+----version----
+language: da
+version: 1
+revision: 7ea2af40-9014-455b-9265-50b59893aae8
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 10
+
+Sideevents
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 10
+
+Sideevents
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173457:635657528972211162Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7ea2af40-9014-455b-9265-50b59893aae8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180322:635657546023527459Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 153ac2fe-c93c-46d9-a908-56f196b30fc8
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 12
+
+Seitenevents
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Seitenevents
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174412:635657534520382067Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+153ac2fe-c93c-46d9-a908-56f196b30fc8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181056:635657550566841898Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 54776f10-1983-479e-9b35-005121ac0040
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 11
+
+Page Events
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130401T224002
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+54776f10-1983-479e-9b35-005121ac0040
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20131007T160228:635167585486793238
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 8872fe63-0f15-4798-8a39-8132cb5b4272
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 8
+
+ページ イベント
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+ページ イベント
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175304:635657539847759318Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8872fe63-0f15-4798-8a39-8132cb5b4272
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180711:635657548311815354Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

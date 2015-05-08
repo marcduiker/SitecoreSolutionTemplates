@@ -1,0 +1,248 @@
+----item----
+version: 1
+id: {8A7F256F-28E9-4B32-83CD-D4169D59E179}
+database: master
+path: /sitecore/system/Settings/Rules/Definitions/Elements/Context/Visibility/Rule Elements Visibility Rule
+parent: {9487DD44-DFB8-47FB-A570-C5A60A3E83A9}
+name: Rule Elements Visibility Rule
+master: {00000000-0000-0000-0000-000000000000}
+template: {271F5CF1-95C7-474D-9F04-06C6EBB20D8F}
+templatekey: Rule Elements Visibility Rule
+
+----version----
+language: da
+version: 1
+revision: 800f7afc-d2b1-4943-983c-ed1d9598e910
+
+----field----
+field: {F9ABBE04-6A99-49DA-906D-8B0A709C377F}
+name: Name
+key: name
+content-length: 28
+
+Synlighed for regelelementer
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 28
+
+Synlighed for regelelementer
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173516:635657529162530224Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+800f7afc-d2b1-4943-983c-ed1d9598e910
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180332:635657546125402994Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 159d3560-9da2-4874-9fb3-9049beb1820e
+
+----field----
+field: {F9ABBE04-6A99-49DA-906D-8B0A709C377F}
+name: Name
+key: name
+content-length: 33
+
+Regel Elemente Sichtbarkeitsregel
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 33
+
+Regel Elemente Sichtbarkeitsregel
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174440:635657534801943789Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+159d3560-9da2-4874-9fb3-9049beb1820e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181105:635657550658715686Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: afbad57e-ff1b-48e3-a605-b1a083dd36f7
+
+----field----
+field: {F9ABBE04-6A99-49DA-906D-8B0A709C377F}
+name: Name
+key: name
+content-length: 29
+
+Rule Elements Visibility Rule
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20120926T183044
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+afbad57e-ff1b-48e3-a605-b1a083dd36f7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20120926T193754:634842850747628951
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 2e9d086c-3432-4409-a69e-1967b19783fd
+
+----field----
+field: {F9ABBE04-6A99-49DA-906D-8B0A709C377F}
+name: Name
+key: name
+content-length: 15
+
+ルール要素の表示/非表示ルール
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+ルール要素の表示/非表示ルール
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175330:635657540109163564Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2e9d086c-3432-4409-a69e-1967b19783fd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180720:635657548400876410Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

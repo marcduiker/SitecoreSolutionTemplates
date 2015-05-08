@@ -1,0 +1,255 @@
+----item----
+version: 1
+id: {10F0E2CA-882A-4BF3-84BE-7F014EFE9104}
+database: core
+path: /sitecore/content/Applications/Content Editor/Gutters/Publishing Warnings
+parent: {59F37069-3118-4151-8C01-5DA0EF12CB4E}
+name: Publishing Warnings
+master: {00000000-0000-0000-0000-000000000000}
+template: {F5D247E0-80E6-4F31-9921-D30D00B61B3C}
+templatekey: Gutter Renderer
+
+----field----
+field: {7A108204-DC61-4D25-A138-FD6F53F48ABF}
+name: Type
+key: type
+content-length: 84
+
+Sitecore.Shell.Applications.ContentEditor.Gutters.PublishingWarnings,Sitecore.Kernel
+----version----
+language: da
+version: 1
+revision: 113c2f1b-76b2-4b30-9d9d-3c23e0476ad7
+
+----field----
+field: {5024402F-0B92-4C13-A7D2-86ED85FF3560}
+name: Header
+key: header
+content-length: 19
+
+Udgivelsesadvarsler
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 19
+
+Udgivelsesadvarsler
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T172952:635657525921251004Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+113c2f1b-76b2-4b30-9d9d-3c23e0476ad7
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180044:635657544441639788Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: a384bc88-16ae-4570-a2ae-30b99754f8e3
+
+----field----
+field: {5024402F-0B92-4C13-A7D2-86ED85FF3560}
+name: Header
+key: header
+content-length: 22
+
+Publizierungswarnungen
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 22
+
+Publizierungswarnungen
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173821:635657531019108889Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a384bc88-16ae-4570-a2ae-30b99754f8e3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180833:635657549130887478Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: bf494e79-3a7a-4c66-9aa0-f0764834708a
+
+----field----
+field: {5024402F-0B92-4C13-A7D2-86ED85FF3560}
+name: Header
+key: header
+content-length: 19
+
+Publishing Warnings
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20070321T143147
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+bf494e79-3a7a-4c66-9aa0-f0764834708a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20071107T180552
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 6c93dad8-12d2-48ea-ad0d-ef43cb3b1dbc
+
+----field----
+field: {5024402F-0B92-4C13-A7D2-86ED85FF3560}
+name: Header
+key: header
+content-length: 16
+
+パブリッシュの警告を含むアイテム
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 16
+
+パブリッシュの警告を含むアイテム
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174711:635657536317880043Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6c93dad8-12d2-48ea-ad0d-ef43cb3b1dbc
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180446:635657546861959351Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

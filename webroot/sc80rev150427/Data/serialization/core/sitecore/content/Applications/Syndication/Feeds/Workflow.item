@@ -1,0 +1,234 @@
+----item----
+version: 1
+id: {30B9829F-4F3B-4013-83F2-7BC2C3B90190}
+database: core
+path: /sitecore/content/Applications/Syndication/Feeds/Workflow
+parent: {434DA143-5F47-4DA1-9FD1-4604F8A5371E}
+name: Workflow
+master: {00000000-0000-0000-0000-000000000000}
+template: {25B77D8B-A43D-4890-95F7-3D17FAD72CE1}
+templatekey: Feed
+
+----field----
+field: {516CBC73-A35A-4342-8B40-DE55A5B4CC3A}
+name: Type
+key: type
+content-length: 56
+
+Sitecore.Shell.Feeds.FeedTypes.Workflow, Sitecore.Kernel
+----field----
+field: {DCEA8297-404E-447A-BEE2-A892A3DA7E04}
+name: Sections
+key: sections
+content-length: 311
+
+{593D74E3-0BC5-4747-870C-D882E6D7D0C3}|{E894B71C-029C-46AC-A0FE-97ED4663ECFB}|{AF08650C-A246-4CBC-B215-096E706B218A}|{74F8157D-45D6-4C7D-B5B7-649672FCF80C}|{67963A52-4329-4950-AFFF-44035DFBCABF}|{07D03995-C7B0-43D9-ADDA-D7AA8338C9C4}|{9BE831C0-FC19-4641-9B4E-41294726119F}|{334CA7D2-9463-451C-9EA8-2CE94BFE8CF9}
+----version----
+language: da
+version: 1
+revision: c105f25b-590e-47c0-b2a2-b4587c1ec3f6
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Workflow
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173017:635657526172349328Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+c105f25b-590e-47c0-b2a2-b4587c1ec3f6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180057:635657544571485870Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: eaeed830-ed2e-4ca5-9666-66f8f640c8aa
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+Workflow
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173854:635657531344735735Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+eaeed830-ed2e-4ca5-9666-66f8f640c8aa
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180845:635657549255420071Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 2c1ff3f9-343f-45af-90f2-9d2997e6d839
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20080703T182133
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2c1ff3f9-343f-45af-90f2-9d2997e6d839
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20090512T162247:633777421678187483
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 49f989a6-4c05-47da-9055-57cd8006cfd2
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+ワークフロー
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174746:635657536669291720Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+49f989a6-4c05-47da-9055-57cd8006cfd2
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180459:635657546993991224Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

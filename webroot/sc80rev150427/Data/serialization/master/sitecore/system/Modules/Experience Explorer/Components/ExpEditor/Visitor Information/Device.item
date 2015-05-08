@@ -1,0 +1,262 @@
+----item----
+version: 1
+id: {FD59DF07-5B0F-4DAC-B132-93CB217C2393}
+database: master
+path: /sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Device
+parent: {27586B75-A6FD-43CF-924F-5A07824E9716}
+name: Device
+master: {00000000-0000-0000-0000-000000000000}
+template: {E360BED5-B72B-4C02-890F-E434486DE3F1}
+templatekey: Control
+
+----field----
+field: {AD8D5F6D-D0A3-4F86-A4E7-C29FF7427597}
+name: Path
+key: path
+content-length: 93
+
+/sitecore modules/Web/ExperienceExplorer/Controls/VisitorInformation/Device/DeviceEditor.ascx
+----field----
+field: {64461E27-1C6A-4AA2-BDA8-44E5316EF09E}
+name: Method
+key: method
+content-length: 33
+
+GetEditorVisitorInformationDevice
+----version----
+language: da
+version: 1
+revision: 5e37f820-f377-43f5-ac6e-59c39de46eaf
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 5
+
+Enhed
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+Enhed
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173602:635657529623785389Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+5e37f820-f377-43f5-ac6e-59c39de46eaf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180353:635657546337118664Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 41b450d6-568e-43bb-90ae-91910a131f6d
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 5
+
+Gerät
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 5
+
+Gerät
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174538:635657535384128587Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+41b450d6-568e-43bb-90ae-91910a131f6d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181125:635657550850748632Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: da2df36e-95cb-4939-a000-e55d27fd163e
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 6
+
+Device
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130401T224126
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+da2df36e-95cb-4939-a000-e55d27fd163e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20130902T155503:635137341038167638
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: f310baba-05d3-4e71-843b-603b825b70af
+
+----field----
+field: {804E29AD-9CFF-4D31-B4D4-B5A6DAED990B}
+name: Tab Name
+key: tab name
+content-length: 4
+
+デバイス
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 4
+
+デバイス
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175426:635657540663379794Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f310baba-05d3-4e71-843b-603b825b70af
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180739:635657548592126292Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

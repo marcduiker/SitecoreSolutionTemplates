@@ -1,0 +1,269 @@
+----item----
+version: 1
+id: {55B745D2-2345-438E-992E-6B8496E7F01D}
+database: core
+path: /sitecore/system/Settings/Html Editor Profiles/Rich Text IDE/Tidy
+parent: {54AA6114-7BC3-4A2E-B124-CF6DCA43536B}
+name: Tidy
+master: {00000000-0000-0000-0000-000000000000}
+template: {99F6B171-53A6-4860-BF66-3C77E0A1BBBF}
+templatekey: Html Editor Tidy
+
+----version----
+language: da
+version: 1
+revision: 0c4b3eaf-c293-4153-93e0-cd3fd2cead94
+
+----field----
+field: {083EB068-252C-48A6-B4DB-CC13CA21B2C0}
+name: Allowed Tags
+key: allowed tags
+content-length: 176
+
+|a|div|span|p|table|td|tr|img|h1|h2|h3|h4|h5|h6|applet|b|i|u|br|center|embed|form|input|select|textarea|frame|iframe|object|strong|em|tbody|tfoot|th|ul|ol|option|param|nobr|li|
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 3
+
+Ryd
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173047:635657526473132044Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+0c4b3eaf-c293-4153-93e0-cd3fd2cead94
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180112:635657544727583307Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: e0270657-40e8-4304-9750-aebbca47725c
+
+----field----
+field: {083EB068-252C-48A6-B4DB-CC13CA21B2C0}
+name: Allowed Tags
+key: allowed tags
+content-length: 176
+
+|a|div|span|p|table|td|tr|img|h1|h2|h3|h4|h5|h6|applet|b|i|u|br|center|embed|form|input|select|textarea|frame|iframe|object|strong|em|tbody|tfoot|th|ul|ol|option|param|nobr|li|
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Ordnen
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173931:635657531716609019Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e0270657-40e8-4304-9750-aebbca47725c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180901:635657549411202318Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: 3581ad98-2421-40a5-866d-fdd2aed2aa4a
+
+----field----
+field: {083EB068-252C-48A6-B4DB-CC13CA21B2C0}
+name: Allowed Tags
+key: allowed tags
+content-length: 176
+
+|a|div|span|p|table|td|tr|img|h1|h2|h3|h4|h5|h6|applet|b|i|u|br|center|embed|form|input|select|textarea|frame|iframe|object|strong|em|tbody|tfoot|th|ul|ol|option|param|nobr|li|
+----field----
+field: {46EF45A7-B810-4AAF-B29E-8CE687CFFEDA}
+name: Clean
+key: clean
+content-length: 1
+
+1
+----field----
+field: {E528641A-8F11-4A5C-834A-F5829EC87652}
+name: Filter
+key: filter
+content-length: 1
+
+1
+----field----
+field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
+name: __Valid from
+key: __valid from
+content-length: 15
+
+20060201T122046
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20060201T122046
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+3581ad98-2421-40a5-866d-fdd2aed2aa4a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20070831T134219
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: ba1bda06-d0ea-4d80-b695-3e3f85b9938c
+
+----field----
+field: {083EB068-252C-48A6-B4DB-CC13CA21B2C0}
+name: Allowed Tags
+key: allowed tags
+content-length: 176
+
+|a|div|span|p|table|td|tr|img|h1|h2|h3|h4|h5|h6|applet|b|i|u|br|center|embed|form|input|select|textarea|frame|iframe|object|strong|em|tbody|tfoot|th|ul|ol|option|param|nobr|li|
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 2
+
+整理
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174827:635657537076011643Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ba1bda06-d0ea-4d80-b695-3e3f85b9938c
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180515:635657547151491602Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

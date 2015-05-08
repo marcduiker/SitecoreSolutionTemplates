@@ -1,0 +1,311 @@
+----item----
+version: 1
+id: {C6A1AEA0-E515-4B77-950B-5B19F317BBF3}
+database: master
+path: /sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Anonymous
+parent: {D012A738-7871-40DF-AB6E-EA71F7137BED}
+name: Anonymous
+master: {00000000-0000-0000-0000-000000000000}
+template: {BAB68954-D9E6-464D-88E5-C207CB392AA7}
+templatekey: Preset Persona
+
+----field----
+field: {EFA537EC-D9D1-4A38-BFA4-323713813045}
+name: Image
+key: image
+content-length: 167
+
+<image mediaid="{715C5BB4-3584-4510-8815-C42F88B1034E}" mediapath="/Experience Explorer/Presets/Unknown 128x128" src="-/media/715C5BB4358445108815C42F88B1034E.ashx" />
+----field----
+field: {02EE3B76-C42D-411F-82A4-D0B9069403DF}
+name: Device
+key: device
+content-length: 38
+
+{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}
+----field----
+field: {867D790E-1A88-4E46-B0F5-2AA8B8231C3E}
+name: Geo Ip
+key: geo ip
+content-length: 15
+
+195.184.101.134
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 32
+
+People/16x16/pawn_glass_blue.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+25
+----version----
+language: da
+version: 1
+revision: fc65f749-3157-4213-9bbf-39eb456a4805
+
+----field----
+field: {A874AB53-08DF-412E-8885-EDBA38FEB0B9}
+name: Name
+key: name
+content-length: 6
+
+Anonym
+----field----
+field: {230D7D68-3794-45DE-BE8A-336EF1048807}
+name: Description
+key: description
+content-length: 141
+
+Denne besøgende på hjemmesiden er ikke logget på websiden og har ikke tilbudt nogen personlige oplysninger, som kan identificere vedkommende.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Anonym
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173540:635657529404879094Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+fc65f749-3157-4213-9bbf-39eb456a4805
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180343:635657546238057802Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 6dbc5ab9-e669-4303-8939-e0145b8831c6
+
+----field----
+field: {A874AB53-08DF-412E-8885-EDBA38FEB0B9}
+name: Name
+key: name
+content-length: 6
+
+Anonym
+----field----
+field: {230D7D68-3794-45DE-BE8A-336EF1048807}
+name: Description
+key: description
+content-length: 149
+
+Dieser Seitenbesucher ist nicht auf der Seite angemeldet und hat keine persönlichen Informationen hinterlegt, die ihn oder sie identifizieren können.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 6
+
+Anonym
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174510:635657535108348265Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6dbc5ab9-e669-4303-8939-e0145b8831c6
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181116:635657550760433820Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: a13eddb5-ba28-4af6-8950-2a3f14663894
+
+----field----
+field: {A874AB53-08DF-412E-8885-EDBA38FEB0B9}
+name: Name
+key: name
+content-length: 9
+
+Anonymous
+----field----
+field: {230D7D68-3794-45DE-BE8A-336EF1048807}
+name: Description
+key: description
+content-length: 119
+
+This site visitor is not logged in to the website and has offered no personal information that can identify him or her.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20130227T130001
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a13eddb5-ba28-4af6-8950-2a3f14663894
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20141104T092117:635506896778587045Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 42de944a-e20e-4ade-bd4f-8b0c0b3d55a5
+
+----field----
+field: {A874AB53-08DF-412E-8885-EDBA38FEB0B9}
+name: Name
+key: name
+content-length: 2
+
+匿名
+----field----
+field: {230D7D68-3794-45DE-BE8A-336EF1048807}
+name: Description
+key: description
+content-length: 54
+
+このサイトの訪問者は Web サイトにログインしていません。また、性別を特定する個人情報も提供されていません
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 2
+
+匿名
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175400:635657540408069730Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+42de944a-e20e-4ade-bd4f-8b0c0b3d55a5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180730:635657548504000090Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

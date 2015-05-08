@@ -1,0 +1,312 @@
+----item----
+version: 1
+id: {7A9EBB2C-33DF-48D8-8583-8C643BF6E19A}
+database: master
+path: /sitecore/system/Settings/Analytics/Reports/Item Reports/Top External Keywords Leading to this Page
+parent: {B62E6C0C-8BE3-4F51-939A-DB039EEFA3A4}
+name: Top External Keywords Leading to this Page
+master: {00000000-0000-0000-0000-000000000000}
+template: {6674A4AF-EACE-445E-89F1-E2F464026056}
+templatekey: Report
+
+----field----
+field: {0CC4AD84-F69D-44D2-9600-5C7522AA2401}
+name: File Name
+key: file name
+content-length: 80
+
+/sitecore/shell/Applications/Analytics/Reports/ItemReports/TopSearchKeywords.mrt
+----field----
+field: {16802C7A-011A-41FF-88B4-C33E6C737F3F}
+name: Queries
+key: queries
+content-length: 101
+
+DataSource=%7b8E191C24-3A24-4F67-84CE-AFD3E6F3CE7D%7d&Page=%7b0335CB18-C887-4F23-A674-A560D89B3A99%7d
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 27
+
+Applications/32x32/exit.png
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+100
+----version----
+language: da
+version: 1
+revision: 416b7a6d-9bf2-432c-9b20-99eeb924346e
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 41
+
+Vigtigste eksterne nøgleord på denne side
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 565
+
+Denne rapport hjælper dig med at besvare spørgsmålet:<ul><li>Hvilke nøgleord førte den besøgende til denne side?</li></ul>
+Denne rapport viser de vigtigste eksterne nøgleord anvendt af besøgende på det tidspunkt for at komme til denne side. Nøgleord er klassificeret efter den værdi, der er akkumuleret af besøgende, der brugte dette nøgleord. <br/>
+Du kan hjælpe med at booste søgemaskinens klassificering ved at bruge disse nøgleord i overskrifter og øge deres brug i sidens indhold. Du ønsker evt. at undersøge køb af disse nøgleord som adwords i søgemaskiner.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 53
+
+Vigtigste eksterne nøgleord, der fører til denne side
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173510:635657529100652878Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+416b7a6d-9bf2-432c-9b20-99eeb924346e
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180329:635657546095559170Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: cc9e292f-ce99-4900-90d0-49d3ee77b1ba
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 36
+
+Top externe Keywords zu dieser Seite
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 630
+
+Dieser Report hilft Ihnen, die Fragen zu beantworten:<ul><li>Welche Keywords haben den Besucher auf diese Seite gebracht?</li></ul>
+Dieser Report zeigt die Top externen Keywords, die Besucher in diesem Zeitraum benutzt haben, um auf diese Seite zu gelangen. Keywords werden nach dem von den Besuchern, die dieses Keyword benutzt haben akkumulierten Wert gewichtet. <br/>
+Mit dem Benutzen dieser Keywords in Überschriften und einer häufigeren Verwendung dieser Wörter im Seiteninhalt, können Sie helfen das Suchmaschinen-Ranking zu erhöhen.  Sie sollten vielleicht prüfen, diese Keywords als Adwords in Suchmaschinen zu erwerben.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 48
+
+Top externe Keywords, die auf diese Seite führen
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174432:635657534722100313Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+cc9e292f-ce99-4900-90d0-49d3ee77b1ba
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181103:635657550631372111Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: ce6ef71c-2b05-4e5c-8bbf-0a4d229670a3
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 34
+
+Top External Keywords to this Page
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 501
+
+This report helps you answer the question:<ul><li>Which keywords brought the visitor to this page?</li></ul>
+This report shows the top external keywords visitors used in this time period to come to this page. Keywords are ranked by the value accumulated by visitors who used this keyword. <br/>
+You can help boost search engine rankings by using these keywords in headlines and increasing their use in page content. You may want to investigate purchasing these keywords as adwords in search engines.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20090127T202122
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ce6ef71c-2b05-4e5c-8bbf-0a4d229670a3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110411T153437:634381328771442508
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 4754ca0c-79a9-4da7-8c79-ee18dcbbd8f3
+
+----field----
+field: {D71DCBF1-3E4C-4ACD-9244-58AA5C1C8528}
+name: Report Title
+key: report title
+content-length: 15
+
+このページの外部検索キーワード
+----field----
+field: {F38BB3C8-94D9-4815-8CE2-06FA4EB8FC80}
+name: Report Description
+key: report description
+content-length: 309
+
+このレポートは次のような問に答えるために役立つ情報を提供します。<ul><li>ユーザーはどのキーワードを使ってこのページに来訪したか。</li></ul>
+このレポートはある期間中にこのページに来訪したビジターが使用した上位の外部キーワードを示します。キーワードはこのキーワードを使用したビジターによって累計された値によってランク付けされています。<br/>
+これらのキーワードをヘッドラインに使用したり、ページのコンテンツでの使用を増加させることによって、検索エンジンのランキングの上昇のために役立てることができます。これらのキーワードを検索エンジンの AdWords で購入することを検討することもできます。
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 21
+
+このページに繋がる上位の外部検索キーワード
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175323:635657540035884124Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4754ca0c-79a9-4da7-8c79-ee18dcbbd8f3
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180717:635657548374626746Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

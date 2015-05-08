@@ -1,0 +1,276 @@
+----item----
+version: 1
+id: {F7F39C16-49B8-4FC0-B826-688C0DBD2005}
+database: master
+path: /sitecore/system/Settings/Analytics/Test Winner Strategies/Weighted Engagement Value
+parent: {C0C108BE-FCA9-4B41-BEFA-95BF47DCB58A}
+name: Weighted Engagement Value
+master: {00000000-0000-0000-0000-000000000000}
+template: {61618000-F943-4B7A-8286-28F8593A630F}
+templatekey: Test Winner Strategy
+
+----version----
+language: da
+version: 1
+revision: 7d8dbd6b-a98a-486e-80e1-4af2f58b582a
+
+----field----
+field: {15F1DE80-696E-418B-B017-F70F464E313B}
+name: Name
+key: name
+content-length: 107
+
+Vælg vinder automatisk, medmindre vinderen ikke performer bedst i forbindelse med efterfølgende værdi/besøg
+----field----
+field: {430B11C1-5BFE-466D-8452-20E83E35227A}
+name: Type
+key: type
+content-length: 93
+
+Sitecore.ContentTesting.Analytics.WinnerStrategies.BestValueStrategy, Sitecore.ContentTesting
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 44
+
+Vælg vinder, der performer bedst, automatisk
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173600:635657529600973035Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7d8dbd6b-a98a-486e-80e1-4af2f58b582a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180352:635657546328837573Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 01e711f8-c340-4ab0-8bbd-e1469c9c93ec
+
+----field----
+field: {15F1DE80-696E-418B-B017-F70F464E313B}
+name: Name
+key: name
+content-length: 105
+
+Gewinner automatisch auswählen, außer wenn es  nicht das beste Ergebnis für den Trailing-Wert/-Besuch ist
+----field----
+field: {430B11C1-5BFE-466D-8452-20E83E35227A}
+name: Type
+key: type
+content-length: 93
+
+Sitecore.ContentTesting.Analytics.WinnerStrategies.BestValueStrategy, Sitecore.ContentTesting
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 34
+
+Gewinner automatisch wählen bester
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174535:635657535358503751Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+01e711f8-c340-4ab0-8bbd-e1469c9c93ec
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181124:635657550841998408Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: a7a4f4b1-a09f-4b22-bbca-ad212cb60619
+
+----field----
+field: {15F1DE80-696E-418B-B017-F70F464E313B}
+name: Name
+key: name
+content-length: 86
+
+Automatically select winner, unless it is not best performing for trailing value/visit
+----field----
+field: {430B11C1-5BFE-466D-8452-20E83E35227A}
+name: Type
+key: type
+content-length: 93
+
+Sitecore.ContentTesting.Analytics.WinnerStrategies.BestValueStrategy, Sitecore.ContentTesting
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20140508T093308Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+a7a4f4b1-a09f-4b22-bbca-ad212cb60619
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20141104T174514:635507199142661195Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 7d4dab58-7c55-4896-99a7-84f3cf127563
+
+----field----
+field: {15F1DE80-696E-418B-B017-F70F464E313B}
+name: Name
+key: name
+content-length: 39
+
+訪問毎のバリューの追跡が最適でない場合は、自動的に最良のテスト結果を選択します
+----field----
+field: {430B11C1-5BFE-466D-8452-20E83E35227A}
+name: Type
+key: type
+content-length: 93
+
+Sitecore.ContentTesting.Analytics.WinnerStrategies.BestValueStrategy, Sitecore.ContentTesting
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 17
+
+自動的に最良のテスト結果を選択する
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175423:635657540639160734Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7d4dab58-7c55-4896-99a7-84f3cf127563
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180738:635657548583688630Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

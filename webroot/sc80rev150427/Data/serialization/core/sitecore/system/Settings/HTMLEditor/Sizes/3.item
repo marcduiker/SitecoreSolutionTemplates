@@ -1,0 +1,86 @@
+----item----
+version: 1
+id: {9FBC4D64-95E0-4DFB-AE65-9C4703EBE6DF}
+database: core
+path: /sitecore/system/Settings/HTMLEditor/Sizes/3
+parent: {468034AB-7B6D-4E88-9F38-5AB38A0EF045}
+name: 3
+master: {00000000-0000-0000-0000-000000000000}
+template: {6922F86A-74B1-45D9-9CF5-57C04E72A243}
+templatekey: HTML Size
+
+----field----
+field: {D5C77F91-DC0B-4228-A137-C6AEFE1963DD}
+name: Display size
+key: display size
+content-length: 1
+
+3
+----field----
+field: {0013ED97-2131-4954-A46D-D7FAE9521D36}
+name: Reference size
+key: reference size
+content-length: 1
+
+3
+----field----
+field: {A4F985D9-98B3-4B52-AAAF-4344F6E747C6}
+name: __Workflow
+key: __workflow
+content-length: 0
+
+
+----version----
+language: en
+version: 1
+revision: 800f4872-69c4-4c20-8ff7-3d9f7a3de0d8
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20060424T113022
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+800f4872-69c4-4c20-8ff7-3d9f7a3de0d8
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 15
+
+20060424T113022
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\Admin
+----field----
+field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
+name: __Workflow state
+key: __workflow state
+content-length: 0
+
+

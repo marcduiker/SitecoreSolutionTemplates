@@ -1,0 +1,309 @@
+----item----
+version: 1
+id: {F50CD144-013F-4AD8-90BD-F01816E40CCC}
+database: core
+path: /sitecore/system/Settings/Buckets/Views/Media View
+parent: {3B750F26-520E-4B33-852A-9633C54706BE}
+name: Media View
+master: {00000000-0000-0000-0000-000000000000}
+template: {6C534F05-6B39-4AFD-BAF1-4CCE81B29376}
+templatekey: View
+
+----field----
+field: {BB7FF36D-6368-4117-AB7C-01AEFF56BEA2}
+name: Name
+key: name
+content-length: 10
+
+Media View
+----field----
+field: {2EDEF3FC-7264-443A-B0F4-3A2E3B602882}
+name: Header Template
+key: header template
+content-length: 445
+
+<script type="text/javascript">
+			$j(document).ready(function(){
+				$j('.boxgrid').hover(function(){
+					$j(".cover", this).stop().animate({left:'325px'},{queue:false,duration:300});
+				}, function() {
+					$j(".cover", this).stop().animate({left:'0px'},{queue:false,duration:300});
+				});
+			});
+		</script>
+<div class="mainmargin" id="grid-content" style="position: relative; width: auto;overflow-x: hidden; overflow-y: hidden;">
+----field----
+field: {3A13DAFA-0E96-4214-8C42-BC114CEA529B}
+name: Item Template
+key: item template
+content-length: 542
+
+<div class="boxgrid">
+	<img class="cover" style="background-color: #fff;" width="285" height="240" src="ImagePathPlaceholder?w=285&h=240"/>
+	<h3>NamePlaceholder</h3>
+	<p>
+		TemplatePlaceholder<br/>
+		ContentPlaceholder<br/>
+	</p>
+	<p>
+		<a href="#" onclick="scForm.getParentForm().postRequest('','','','LaunchTypePlaceholder(url=ItemIdPlaceholder)'); return false;">Open Item</a>
+	</p>
+	<p>
+		<span class="idFilter" style="display:none;">ItemIdPlaceholder</span>
+		<span class="evaluateLanguage">LanguageList</span>
+	</p>
+</div>
+----field----
+field: {390576A2-5452-4CAE-AB91-116A8892CFD2}
+name: Footer Template
+key: footer template
+content-length: 1229
+
+</div>
+<script>
+
+(function() {
+ $j.each($j('.cover'), function () {
+   if ($j(this).attr('src').indexOf('~/icon/') == 0) {
+     $j(this).attr('width', 32).attr('height', 32).attr('style', $j('.cover').attr('style') + 'padding: 109px 129px;');
+   }
+ });
+
+  var langs = $j('.evaluateLanguage');
+  var outputText = '';
+
+  var i;
+  var textToPrint = '';
+  for (i = 0; i < langs.length; ++i) {
+    textToPrint = '';
+	var lang = langs[i]
+    var splitLang = lang.textContent ? lang.textContent.split('~') : lang.innerText.split('~');
+	
+    for (var j = 0; j < splitLang.length; j++) {
+      if (splitLang[j].split('|')[0] != '') {
+        textToPrint = textToPrint + 
+          "<a href=\"\"  onclick=\"event.stopPropagation();scForm.getParentForm().postRequest('','','','contenteditor:launchtab(id=" + $j('.idFilter').eq(i).text() + ", la=" + splitLang[j].split('|')[0] + ", version=1)'); return false;\"><span style=\"font-weight:bold;background: url('" + splitLang[j].split('|')[1].replace('~', '') + "') no-repeat left center;padding-left:25px;padding-bottom:8px;background-size:16px 16px;\"></span></a>";
+      }
+
+      $j('.evaluateLanguage').eq(i).html(textToPrint);
+    }
+  }
+})();    
+
+</script>
+----field----
+field: {B41248A7-5111-4A19-907D-4E7EE4358069}
+name: Enabled
+key: enabled
+content-length: 1
+
+1
+----version----
+language: da
+version: 1
+revision: 2f113085-f47d-46db-949e-3030f3e26f99
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 12
+
+Medievisning
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173254:635657527743610756Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+2f113085-f47d-46db-949e-3030f3e26f99
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180217:635657545371958054Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: 81b8fbc1-9041-4cc0-98cc-1849e4dcf5d4
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 13
+
+Media Ansicht
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174225:635657533451937919Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+81b8fbc1-9041-4cc0-98cc-1849e4dcf5d4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181009:635657550098714018Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: e51e97ab-5d8c-40c2-a35e-50975366c0a0
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20120621T204100Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e51e97ab-5d8c-40c2-a35e-50975366c0a0
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20140813T115053:635435274536617960Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 459eb80a-3cfb-4597-8168-4b92e8cdd5d9
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 8
+
+メディア ビュー
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175126:635657538862592615Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+459eb80a-3cfb-4597-8168-4b92e8cdd5d9
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180623:635657547832904956Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

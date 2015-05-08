@@ -1,0 +1,297 @@
+----item----
+version: 1
+id: {E610018E-15EB-48CA-A6A0-6E04CD5A3167}
+database: master
+path: /sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Valuable Full Path
+parent: {CD987A31-A2EF-4309-B3FC-2060451694B3}
+name: Most Valuable Full Path
+master: {00000000-0000-0000-0000-000000000000}
+template: {3C7C63EE-F6B5-4C41-85D4-840EF9D875A8}
+templatekey: Report
+
+----field----
+field: {19A7925F-49D4-438B-8173-8ABCA9E13767}
+name: Category
+key: category
+content-length: 8
+
+TopPaths
+----field----
+field: {ED42832F-C994-4ED7-8ED3-5408A89C6C52}
+name: Type
+key: type
+content-length: 73
+
+Sitecore.PathAnalyzer.Reports.MostValuableFullPaths,Sitecore.PathAnalyzer
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 2
+
+75
+----version----
+language: da
+version: 1
+revision: b1bd9d89-567d-4253-99c1-18f42008a316
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 32
+
+Fuld sti til den mest værdifulde
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 172
+
+Dette element beregnes for en enkelt node, men gælder for den sti, der er angivet af den identificerede node og alle noderne før den: den største værdi af nodeudgangsværdi.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 32
+
+Fuld sti til den mest værdifulde
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T173553:635657529530817234Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b1bd9d89-567d-4253-99c1-18f42008a316
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180349:635657546297275679Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: de-DE
+version: 1
+revision: dd1fe217-13fa-4874-969b-ad1df7f0d971
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 31
+
+Wertvollster vollständiger Pfad
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 196
+
+Dies ist für einen einzelnen Knoten berechnet, gilt jedoch für den Pfad, der durch identifizierten den Knoten bzw. alle vorherigen Knoten definiert wird: der größte Wert des Knotens Ausstiegswert.
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 31
+
+Wertvollster vollständiger Pfad
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T174527:635657535271941805Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+dd1fe217-13fa-4874-969b-ad1df7f0d971
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T181121:635657550813872688Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: en
+version: 1
+revision: ae90f352-1200-41b5-b0f1-83b867fe82f4
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 23
+
+Most Valuable Full Path
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 161
+
+This is calculated for a single node but applies to the Path defined by the node identified and all the nodes preceding it: the largest value of node exit value.
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20140924T210839Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+ae90f352-1200-41b5-b0f1-83b867fe82f4
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20140924T211018:635471898180164596Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----version----
+language: ja-JP
+version: 1
+revision: 6daf1d95-4d0f-48ab-8d3e-687741502856
+
+----field----
+field: {8D8A072A-741E-4804-B68F-E5B3677F63D3}
+name: Name
+key: name
+content-length: 15
+
+最も価値のある完全な Path
+----field----
+field: {AC59C256-FB50-4592-AA15-9C119B6AC8F8}
+name: Description
+key: description
+content-length: 64
+
+これは単一モード用に計算されますが、ノードによって定義された Path と、その先行のノードに適用されます。ノードの最大バリュー
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+最も価値のある完全な Path
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 35
+
+20150427T175415:635657540557284686Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6daf1d95-4d0f-48ab-8d3e-687741502856
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20150427T180735:635657548556813114Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
