@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreSolution.Web", "SitecoreSolution.Web\SitecoreSolution.Web.csproj", "{EF5739D2-C156-4DC8-9336-3B7256D98DE5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{043DFEBC-9B35-4629-8341-016CBB77A75A} = {043DFEBC-9B35-4629-8341-016CBB77A75A}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C2625918-63F9-4773-8DAA-6943DB936CC9}"
 	ProjectSection(SolutionItems) = preProject

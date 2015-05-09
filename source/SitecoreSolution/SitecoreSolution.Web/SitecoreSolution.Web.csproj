@@ -171,6 +171,10 @@
     </Content>
     <None Include="Properties\PublishProfiles\Local Sitecore 8 rev 150228.pubxml" />
     <None Include="Properties\PublishProfiles\Local Sitecore 8 rev 150427.pubxml" />
+    <Content Include="Views\Renderings\Sample\SampleInnerSublayout.cshtml" />
+    <Content Include="Views\Renderings\Sample\SampleLayout.cshtml" />
+    <Content Include="Views\Renderings\Sample\SampleRendering.cshtml" />
+    <Content Include="Views\Renderings\Sample\SampleSublayout.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
