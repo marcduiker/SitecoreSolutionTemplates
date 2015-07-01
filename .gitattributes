@@ -1,6 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Ensure Sitecore serialized files don't have LF/CR problems. 
+*.item -text 
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 
