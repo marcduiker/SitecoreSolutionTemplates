@@ -48,8 +48,18 @@
     <Reference Include="Ninject">
       <HintPath>..\packages\Ninject.3.0.1.10\lib\net45-full\Ninject.dll</HintPath>
     </Reference>
-    <Reference Include="Sitecore.Kernel">
-      <HintPath>..\packages\Sitecore.Kernel.8.0.150427\lib\Sitecore.Kernel.dll</HintPath>
+    <Reference Include="Sitecore.Kernel, Version=8.0.5193.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Sitecore.Kernel.8.0.150621\lib\Sitecore.Kernel.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Ship.AspNet">
+      <HintPath>..\packages\Sitecore.Ship.AspNet.0.3.5\lib\net40\Sitecore.Ship.AspNet.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Ship.Core">
+      <HintPath>..\packages\Sitecore.Ship.AspNet.0.3.5\lib\net40\Sitecore.Ship.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Sitecore.Ship.Infrastructure">
+      <HintPath>..\packages\Sitecore.Ship.AspNet.0.3.5\lib\net40\Sitecore.Ship.Infrastructure.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -165,8 +175,18 @@
     <Content Include="App_Config\Sites.config">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="App_Config\Include\Serialization.config" />
+    <Content Include="App_Config\Include\Serialization.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="App_Config\Include\DataFolder.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Config\Include\SerializationFolder.User.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="App_Config\Include\ship.config" />
+    <Content Include="App_Config\Include\DataFolder.User.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <None Include="Properties\PublishProfiles\Local Sitecore 8 rev 150228.pubxml" />

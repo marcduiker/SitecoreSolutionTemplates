@@ -20,7 +20,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		NuGet.config = NuGet.config
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreSolution.SitecoreLayer", "SitecoreSolution.SitecoreLayer\SitecoreSolution.SitecoreLayer.csproj", "{043DFEBC-9B35-4629-8341-016CBB77A75A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreSolution.SitecoreCustom", "SitecoreSolution.SitecoreCustom\SitecoreSolution.SitecoreCustom.csproj", "{043DFEBC-9B35-4629-8341-016CBB77A75A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{14642572-F991-4453-A423-DBED6E737FE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F35F2A9A-33F7-487C-A147-7F97243CBBC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CMS", "CMS", "{45B4590B-D8AC-41EA-9C65-FC4BC58C3BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreSolution.SitecoreCustom.Test", "SitecoreSolution.SitecoreCustom.Test\SitecoreSolution.SitecoreCustom.Test.csproj", "{92D8B941-1BEE-46A2-899D-119DB88AD630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SitecoreSolution.Web.Test", "SitecoreSolution.Web.Test\SitecoreSolution.Web.Test.csproj", "{8CFE560F-995B-4E23-9780-DDD9654C0618}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,8 +46,22 @@ Global
 		{043DFEBC-9B35-4629-8341-016CBB77A75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{043DFEBC-9B35-4629-8341-016CBB77A75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{043DFEBC-9B35-4629-8341-016CBB77A75A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D8B941-1BEE-46A2-899D-119DB88AD630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D8B941-1BEE-46A2-899D-119DB88AD630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D8B941-1BEE-46A2-899D-119DB88AD630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D8B941-1BEE-46A2-899D-119DB88AD630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CFE560F-995B-4E23-9780-DDD9654C0618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CFE560F-995B-4E23-9780-DDD9654C0618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CFE560F-995B-4E23-9780-DDD9654C0618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CFE560F-995B-4E23-9780-DDD9654C0618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EF5739D2-C156-4DC8-9336-3B7256D98DE5} = {14642572-F991-4453-A423-DBED6E737FE1}
+		{043DFEBC-9B35-4629-8341-016CBB77A75A} = {45B4590B-D8AC-41EA-9C65-FC4BC58C3BA4}
+		{92D8B941-1BEE-46A2-899D-119DB88AD630} = {F35F2A9A-33F7-487C-A147-7F97243CBBC7}
+		{8CFE560F-995B-4E23-9780-DDD9654C0618} = {F35F2A9A-33F7-487C-A147-7F97243CBBC7}
 	EndGlobalSection
 EndGlobal
